@@ -6,4 +6,4 @@
 - 问题解决
 ![image](https://user-images.githubusercontent.com/72082506/227139341-7963b2c1-8475-4648-9545-2e8e42de1087.png)
 
-- [ ] over! 把自己Typora 的博客都迁移到这
+- [ ] over! 把自己Typora 的博客都迁移到这!

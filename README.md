@@ -6,5 +6,5 @@ My personal blog using issues and GitHub Actions
  | ---- | ---- | ---- |
 ## 最近更新
 - [GitBlog 诞生](https://github.com/HealUP/MyBlog/issues/1)--2023-03-23
-## question
+## Have a try
 - [GitBlog 诞生](https://github.com/HealUP/MyBlog/issues/1)--2023-03-23
