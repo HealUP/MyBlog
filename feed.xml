@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/HealUP/MyBlog</id><title>RSS feed of HealUP's MyBlog</title><updated>2023-03-23T08:12:54.512721+00:00</updated><author><name>HealUP</name><email>1571826275@qq.com</email></author><link href="https://github.com/HealUP/MyBlog"/><link href="https://raw.githubusercontent.com/HealUP/MyBlog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/HealUP/MyBlog/issues/1</id><title>GitBlog 诞生</title><updated>2023-03-23T08:12:54.715088+00:00</updated><content type="html"><![CDATA[<ul>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/HealUP/MyBlog</id><title>RSS feed of HealUP's MyBlog</title><updated>2023-03-23T08:16:38.431147+00:00</updated><author><name>HealUP</name><email>1571826275@qq.com</email></author><link href="https://github.com/HealUP/MyBlog"/><link href="https://raw.githubusercontent.com/HealUP/MyBlog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/HealUP/MyBlog/issues/2</id><title>RSS test</title><updated>2023-03-23T08:16:38.621973+00:00</updated><content type="html"><![CDATA[<ul>
+<li>to test RSS</li>
+</ul>
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/2" rel="alternate"/><category term="Have a try"/><published>2023-03-23T08:16:09+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/1</id><title>GitBlog 诞生</title><updated>2023-03-23T08:16:38.766827+00:00</updated><content type="html"><![CDATA[<ul>
 <li>
 <p>测试actions</p>
 </li>
