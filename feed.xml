@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/HealUP/MyBlog</id><title>RSS feed of HealUP's MyBlog</title><updated>2023-03-23T15:55:35.562672+00:00</updated><author><name>HealUP</name><email>1571826275@qq.com</email></author><link href="https://github.com/HealUP/MyBlog"/><link href="https://raw.githubusercontent.com/HealUP/MyBlog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/HealUP/MyBlog/issues/3</id><title>给个人PC加了一根16G的内存条，有点起飞的感觉！</title><updated>2023-03-23T15:55:35.772468+00:00</updated><content type="html"><![CDATA[<blockquote>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/HealUP/MyBlog</id><title>RSS feed of HealUP's MyBlog</title><updated>2023-03-23T15:57:36.513235+00:00</updated><author><name>HealUP</name><email>1571826275@qq.com</email></author><link href="https://github.com/HealUP/MyBlog"/><link href="https://raw.githubusercontent.com/HealUP/MyBlog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/HealUP/MyBlog/issues/3</id><title>给个人PC加了一根16G的内存条，有点起飞的感觉！</title><updated>2023-03-23T15:57:36.822020+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>电脑买的是拯救者的y7000,20款的，当时花了6100左右，想着以后可以自己扩展内存条，并且对硬盘空间要求不是很大，就买了8g的内存，512的硬盘款的，便宜点。具体配置:</p>
 </blockquote>
 <p><img src="https://user-images.githubusercontent.com/72082506/227256029-50aa38a4-6a80-4ccd-b85c-37e659b30ba8.png" alt="image" /></p>
@@ -7,10 +7,8 @@
 <li>原装内存条是8G，一年前买了一根8G的加了进去，当时是220r,老贵了。后来发现写项目跑微服务，内存一下子飙到99％🥲很不流畅，为了提高体验感，让电脑更加流畅点，索性换了16G的进去，现在好多了，同时跑多个服务+开多个软件+网页浏览，大概60％左右，爽，速度明显提高，体验感倍儿好。</li>
 </ul>
 <p><img src="https://user-images.githubusercontent.com/72082506/227259258-862929bf-7e14-43a0-9a66-07aff7a508ba.jpg" alt="0988cbc17653e4404b389f76f56d4bf" /></p>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/3" rel="alternate"/><category term="Daily🔆"/><published>2023-03-23T15:53:29+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/2</id><title>RSS test</title><updated>2023-03-23T15:55:35.874563+00:00</updated><content type="html"><![CDATA[<ul>
-<li>to test RSS</li>
-</ul>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/2" rel="alternate"/><category term="Have a try"/><published>2023-03-23T08:16:09+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/1</id><title>GitBlog 诞生</title><updated>2023-03-23T15:55:35.969068+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/3" rel="alternate"/><category term="Daily🔆"/><published>2023-03-23T15:53:29+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/2</id><title>RSS test</title><updated>2023-03-23T15:57:36.929528+00:00</updated><content type="html"><![CDATA[<p>大家可以将RSS链接添加到阅读器里，方便及时获取到博客的内容，感谢关注~❤️</p>
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/2" rel="alternate"/><category term="Have a try"/><published>2023-03-23T08:16:09+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/1</id><title>GitBlog 诞生</title><updated>2023-03-23T15:57:37.019308+00:00</updated><content type="html"><![CDATA[<ul>
 <li>
 <p>测试actions</p>
 </li>
