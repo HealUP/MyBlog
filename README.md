@@ -17,11 +17,11 @@
 - [支持RSS订阅](https://github.com/HealUP/MyBlog/issues/2)--2023-03-23
 - [GitBlog 诞生](https://github.com/HealUP/MyBlog/issues/1)--2023-03-23
 ## TODO
-TODO list from [4月份就要结束了，一些要做的事](https://github.com/HealUP/MyBlog/issues/6)--6 jobs to do--0 jobs done
+TODO list from [4月份就要结束了，一些要做的事](https://github.com/HealUP/MyBlog/issues/6)--5 jobs to do--1 jobs done
+- [x] 接收工作室项目
 - [ ] 总结好项目
 - [ ] 投简历
 - [ ] 面经
 - [ ] 算法
 - [ ] 笔记迁移
-- [ ] 接收工作室项目
 
