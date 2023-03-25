@@ -24,11 +24,11 @@
 ## 碎碎念
 - [报了软考 预言家说：铁定能过！](https://github.com/HealUP/MyBlog/issues/8)--2023-03-25
 ## TODO
-TODO list from [4月份就要结束了，一些要做的事](https://github.com/HealUP/MyBlog/issues/6)--4 jobs to do--2 jobs done
-- [x] 笔记迁移
+TODO list from [4月份就要结束了，一些要做的事](https://github.com/HealUP/MyBlog/issues/6)--5 jobs to do--1 jobs done
 - [x] 接收工作室项目
 - [ ] 总结好项目
 - [ ] 投简历
 - [ ] 面经
 - [ ] 算法
+- [ ] 笔记迁移
 
