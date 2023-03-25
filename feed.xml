@@ -1,8 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/HealUP/MyBlog</id><title>RSS feed of HealUP's MyBlog</title><updated>2023-03-25T05:17:58.008788+00:00</updated><author><name>HealUP</name><email>1571826275@qq.com</email></author><link href="https://github.com/HealUP/MyBlog"/><link href="https://raw.githubusercontent.com/HealUP/MyBlog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/HealUP/MyBlog/issues/7</id><title>友情链接格式✔️</title><updated>2023-03-25T05:17:58.207439+00:00</updated><content type="html"><![CDATA[<p>名字：HealUP
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/HealUP/MyBlog</id><title>RSS feed of HealUP's MyBlog</title><updated>2023-03-25T05:22:57.859366+00:00</updated><author><name>HealUP</name><email>1571826275@qq.com</email></author><link href="https://github.com/HealUP/MyBlog"/><link href="https://raw.githubusercontent.com/HealUP/MyBlog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/HealUP/MyBlog/issues/7</id><title>友情链接格式✔️</title><updated>2023-03-25T05:22:58.210254+00:00</updated><content type="html"><![CDATA[<p>显示到友情链接的方法：评论，然后将下面对应部分替换成你的，我点了爱心就可以自动添加啦。
+名字：HealUP
 链接：<a href="https://github.com/HealUP/MyBlog">https://github.com/HealUP/MyBlog</a>
 描述：blog</p>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/7" rel="alternate"/><category term="Friends"/><published>2023-03-25T05:15:45+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/6</id><title>4月份就要结束了，一些要做的事</title><updated>2023-03-25T05:17:58.298445+00:00</updated><content type="html"><![CDATA[<h2>4月份之前</h2>
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/7" rel="alternate"/><category term="Friends"/><published>2023-03-25T05:15:45+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/6</id><title>4月份就要结束了，一些要做的事</title><updated>2023-03-25T05:22:58.371037+00:00</updated><content type="html"><![CDATA[<h2>4月份之前</h2>
 <ul>
 <li><input disabled="" type="checkbox"> 总结好项目</li>
 <li><input disabled="" type="checkbox"> 投简历</li>
@@ -11,7 +12,7 @@
 <li><input disabled="" type="checkbox"> 笔记迁移</li>
 <li><input checked="" disabled="" type="checkbox"> 接收工作室项目</li>
 </ul>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/6" rel="alternate"/><category term="TODO"/><published>2023-03-24T13:14:38+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/4</id><title>README看起来更顺眼了！😁</title><updated>2023-03-25T05:17:58.379437+00:00</updated><content type="html"><![CDATA[<p>参考了大佬们的博客，抽了点时间美化了一下readme，主要做了以下几件事</p>
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/6" rel="alternate"/><category term="TODO"/><published>2023-03-24T13:14:38+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/4</id><title>README看起来更顺眼了！😁</title><updated>2023-03-25T05:22:58.523238+00:00</updated><content type="html"><![CDATA[<p>参考了大佬们的博客，抽了点时间美化了一下readme，主要做了以下几件事</p>
 <ul>
 <li>wakatime 数据显示</li>
 </ul>
@@ -27,7 +28,7 @@
 <li>Extra pin 放了简历上的两个项目
 花了点时间折腾，之前想着放年贪吃蛇吃贡献砖块的，还不小心给另外的actions给覆盖了，又让我重搞readme,崩溃🥲 又多折腾了会</li>
 </ul>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/4" rel="alternate"/><category term="Have a try"/><published>2023-03-24T12:30:58+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/3</id><title>给个人PC加了一根16G的内存条，有点起飞的感觉！</title><updated>2023-03-25T05:17:58.472728+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/4" rel="alternate"/><category term="Have a try"/><published>2023-03-24T12:30:58+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/3</id><title>给个人PC加了一根16G的内存条，有点起飞的感觉！</title><updated>2023-03-25T05:22:58.687526+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>电脑买的是拯救者的y7000,20款的，当时花了6100左右，想着以后可以自己扩展内存条，并且对硬盘空间要求不是很大，就买了8g的内存，512的硬盘款的，便宜点。具体配置:</p>
 </blockquote>
 <p><img src="https://user-images.githubusercontent.com/72082506/227256029-50aa38a4-6a80-4ccd-b85c-37e659b30ba8.png" alt="image" /></p>
@@ -35,8 +36,8 @@
 <li>原装内存条是8G，一年前买了一根8G的加了进去，当时是220r,老贵了。后来发现写项目跑微服务，内存一下子飙到99％🥲很不流畅，为了提高体验感，让电脑更加流畅点，索性换了16G的进去，现在好多了，同时跑多个服务+开多个软件+网页浏览，大概60％左右，爽，速度明显提高，体验感倍儿好。</li>
 </ul>
 <p><img src="https://user-images.githubusercontent.com/72082506/227259258-862929bf-7e14-43a0-9a66-07aff7a508ba.jpg" alt="0988cbc17653e4404b389f76f56d4bf" /></p>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/3" rel="alternate"/><category term="Daily🔆"/><published>2023-03-23T15:53:29+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/2</id><title>支持RSS订阅</title><updated>2023-03-25T05:17:58.575659+00:00</updated><content type="html"><![CDATA[<p>大家可以将RSS链接添加到阅读器里，方便及时获取到博客的内容，感谢关注~❤️</p>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/2" rel="alternate"/><category term="Have a try"/><published>2023-03-23T08:16:09+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/1</id><title>GitBlog 诞生</title><updated>2023-03-25T05:17:58.699520+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/3" rel="alternate"/><category term="Daily🔆"/><published>2023-03-23T15:53:29+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/2</id><title>支持RSS订阅</title><updated>2023-03-25T05:22:58.861421+00:00</updated><content type="html"><![CDATA[<p>大家可以将RSS链接添加到阅读器里，方便及时获取到博客的内容，感谢关注~❤️</p>
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/2" rel="alternate"/><category term="Have a try"/><published>2023-03-23T08:16:09+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/1</id><title>GitBlog 诞生</title><updated>2023-03-25T05:22:59.041799+00:00</updated><content type="html"><![CDATA[<ul>
 <li>
 <p>测试actions</p>
 </li>

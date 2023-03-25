@@ -4,6 +4,7 @@
 ## 友情链接
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
+| HealUP | https://github.com/HealUP/MyBlog | blog |
 ## 最近更新
 - [友情链接格式✔️](https://github.com/HealUP/MyBlog/issues/7)--2023-03-25
 - [4月份就要结束了，一些要做的事](https://github.com/HealUP/MyBlog/issues/6)--2023-03-24
