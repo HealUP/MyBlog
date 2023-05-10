@@ -10,7 +10,7 @@
 - [友情链接格式✔️](https://github.com/HealUP/MyBlog/issues/7)--2023-03-25
 ## 最近更新
 - [二分查找⭐⭐⭐⭐](https://github.com/HealUP/MyBlog/issues/15)--2023-05-10
-- [双指针⭐⭐⭐⭐](https://github.com/HealUP/MyBlog/issues/14)--2023-05-10
+- [快慢指针⭐⭐⭐⭐](https://github.com/HealUP/MyBlog/issues/14)--2023-05-10
 - [📌刷题策略](https://github.com/HealUP/MyBlog/issues/13)--2023-05-10
 - [于香港中文大学](https://github.com/HealUP/MyBlog/issues/12)--2023-04-22
 - [5月份计划🗓️](https://github.com/HealUP/MyBlog/issues/11)--2023-04-18
@@ -19,7 +19,7 @@
 - [友情链接格式✔️](https://github.com/HealUP/MyBlog/issues/7)--2023-03-25
 ## 算法
 - [二分查找⭐⭐⭐⭐](https://github.com/HealUP/MyBlog/issues/15)--2023-05-10
-- [双指针⭐⭐⭐⭐](https://github.com/HealUP/MyBlog/issues/14)--2023-05-10
+- [快慢指针⭐⭐⭐⭐](https://github.com/HealUP/MyBlog/issues/14)--2023-05-10
 - [📌刷题策略](https://github.com/HealUP/MyBlog/issues/13)--2023-05-10
 ## Daily🔆
 - [给个人PC加了一根16G的内存条，有点起飞的感觉！](https://github.com/HealUP/MyBlog/issues/3)--2023-03-23
@@ -32,7 +32,7 @@
 ## 二分查找
 - [二分查找⭐⭐⭐⭐](https://github.com/HealUP/MyBlog/issues/15)--2023-05-10
 ## 双指针
-- [双指针⭐⭐⭐⭐](https://github.com/HealUP/MyBlog/issues/14)--2023-05-10
+- [快慢指针⭐⭐⭐⭐](https://github.com/HealUP/MyBlog/issues/14)--2023-05-10
 ## 碎碎念
 - [蓝桥杯又要摆烂了~](https://github.com/HealUP/MyBlog/issues/10)--2023-04-06
 - [数据库又被黑了 真佛了...](https://github.com/HealUP/MyBlog/issues/9)--2023-03-29
