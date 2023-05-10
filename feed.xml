@@ -1,5 +1,59 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/HealUP/MyBlog</id><title>RSS feed of HealUP's MyBlog</title><updated>2023-05-10T06:22:43.025985+00:00</updated><author><name>HealUP</name><email>1571826275@qq.com</email></author><link href="https://github.com/HealUP/MyBlog"/><link href="https://raw.githubusercontent.com/HealUP/MyBlog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/HealUP/MyBlog/issues/13</id><title>📌刷题策略</title><updated>2023-05-10T06:22:43.332993+00:00</updated><content type="html"><![CDATA[<h3>以下是个人总结的刷题方法💡</h3>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/HealUP/MyBlog</id><title>RSS feed of HealUP's MyBlog</title><updated>2023-05-10T06:29:48.004744+00:00</updated><author><name>HealUP</name><email>1571826275@qq.com</email></author><link href="https://github.com/HealUP/MyBlog"/><link href="https://raw.githubusercontent.com/HealUP/MyBlog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/HealUP/MyBlog/issues/14</id><title>双指针⭐⭐⭐⭐</title><updated>2023-05-10T06:29:48.405999+00:00</updated><content type="html"><![CDATA[<h3>快慢指针</h3>
+<p><strong>通过一个快指针和慢指针在一个for循环下完成两个for循环的工作。</strong></p>
+<ul>
+<li>
+<p>暴力解法时间复杂度：O(n^2)</p>
+</li>
+<li>
+<p>双指针时间复杂度：O(n)</p>
+</li>
+</ul>
+<p>27.移除元素🤓🤓
+<a href="https://leetcode.cn/problems/remove-element/">https://leetcode.cn/problems/remove-element/</a></p>
+<p>快慢指针：<strong>通过一个快指针和慢指针在一个for循环下完成两个for循环的工作</strong></p>
+<pre><code class="language-java">class Solution {
+    public int removeElement(int[] nums, int val) {
+        int slowIndex = 0;//定义慢指针
+        for (int fastIndex = 0; fastIndex &lt; nums.length; fastIndex++) {
+            //快指针去查找数组的值是否等于val 
+            if (val != nums[fastIndex]) {
+                //nums[slowIndex++] = nums[fastIndex];
+                nums[slowIndex] = nums[fastIndex];
+                slowIndex++;
+            }
+        }
+        return slowIndex;
+    }
+}
+</code></pre>
+<p>26.删除排序数组中的重复项🤓🤓</p>
+<p><strong>思路分析</strong>：</p>
+<blockquote>
+<p>利用数组有序的特点，可以通过双指针的方法删除重复元素。定义两个指针 fast 和 slow 分别为快指针和慢指针，快指针表示遍历数组到达的下标位置，慢指针表示下一个不同元素要填入的下标位置，初始时两个指针都指向下标 1。当数组的长度大于0的时候，至少都包含了一个不重复的元素，因此，nums[0]保持原状即可，从下标1开始。</p>
+</blockquote>
+<p>链接：<a href="https://leetcode.cn/problems/remove-duplicates-from-sorted-array/solution/shan-chu-pai-xu-shu-zu-zhong-de-zhong-fu-tudo/">https://leetcode.cn/problems/remove-duplicates-from-sorted-array/solution/shan-chu-pai-xu-shu-zu-zhong-de-zhong-fu-tudo/</a></p>
+<pre><code class="language-java">class Solution {
+    public int removeDuplicates(int[] nums) {   
+        //判断数组是否为0
+        int n = nums.length;
+        if (n == 0) {
+            return 0;
+        }
+        int fast = 1, slow = 1;//从1开始 因为数组至少有一个元素是不重复的
+        while (fast &lt; n) {//如果整个数组包括0的话，要&lt;=n
+            if (nums[fast] != nums[fast - 1]) {
+                nums[slow] = nums[fast];//不相等则记录在慢指针中
+               // slow = slow + 1 ;//先加了再赋值
+                ++slow;
+            }
+            ++fast;
+        }
+        return slow;
+    }
+}
+</code></pre>
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/14" rel="alternate"/><category term="算法"/><category term="双指针"/><published>2023-05-10T06:29:04+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/13</id><title>📌刷题策略</title><updated>2023-05-10T06:29:48.593214+00:00</updated><content type="html"><![CDATA[<h3>以下是个人总结的刷题方法💡</h3>
 <ul>
 <li>
 <p>初刷（<strong>一题控制在半小时</strong>）</p>
@@ -32,10 +86,10 @@
 </blockquote>
 </li>
 </ul>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/13" rel="alternate"/><category term="TOP"/><category term="算法"/><published>2023-05-10T06:22:07+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/12</id><title>于香港中文大学</title><updated>2023-05-10T06:22:43.448964+00:00</updated><content type="html"><![CDATA[<p>这次省赛原本是2022年应该举办的，但是由于疫情延迟到了今天，本次的举办地点香港中文大学深圳校区，先附上几张图片吧。
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/13" rel="alternate"/><category term="TOP"/><category term="算法"/><published>2023-05-10T06:22:07+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/12</id><title>于香港中文大学</title><updated>2023-05-10T06:29:48.783670+00:00</updated><content type="html"><![CDATA[<p>这次省赛原本是2022年应该举办的，但是由于疫情延迟到了今天，本次的举办地点香港中文大学深圳校区，先附上几张图片吧。
 <img src="https://user-images.githubusercontent.com/72082506/233777613-10306e27-b9eb-45f0-962d-9cb7e95a5523.jpeg" alt="mmexport42474e6a459898e414415f83633a8d1a_1682136901577" />
 <img src="https://user-images.githubusercontent.com/72082506/233777623-267a2964-b349-4601-813d-95208364df1f.jpg" alt="20230421_235020" /></p>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/12" rel="alternate"/><category term="Orienteering"/><published>2023-04-22T10:07:33+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/11</id><title>5月份计划🗓️</title><updated>2023-05-10T06:22:43.589586+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/12" rel="alternate"/><category term="Orienteering"/><published>2023-04-22T10:07:33+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/11</id><title>5月份计划🗓️</title><updated>2023-05-10T06:29:48.959942+00:00</updated><content type="html"><![CDATA[<ul>
 <li><input disabled="" type="checkbox"> 算法笔记迁移 &amp; 复习旧题</li>
 <li><input disabled="" type="checkbox"> 分类总结八股文</li>
 <li><input disabled="" type="checkbox"> 简历项目面试准备</li>
@@ -43,8 +97,8 @@
 <li><input disabled="" type="checkbox"> 准备软考</li>
 <li><input disabled="" type="checkbox"> 完善wyy项目</li>
 </ul>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/11" rel="alternate"/><category term="TODO"/><published>2023-04-18T01:47:17+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/10</id><title>蓝桥杯又要摆烂了~</title><updated>2023-05-10T06:22:43.708075+00:00</updated><content type="html"><![CDATA[<p>这段时间也没怎么刷蓝桥的题了，感觉8号的蓝桥杯要g，也算是预料之内吧。当然，当初报名的初心就是能通过报名算法类的竞赛，提高自己的算法能力，然后大概100天的时间，也刷了LC大概160道（摆烂式刷题），系统学了数据结构等知识，也总结了算法笔记，让自己对曾经不敢接触的东西，有了新的认知。总之，收获还是有的，这300块的报名费，值得，目的算是达到了。希望后面的时间，也要继续做题，冲。</p>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/10" rel="alternate"/><category term="碎碎念"/><published>2023-04-06T01:53:01+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/9</id><title>数据库又被黑了 真佛了...</title><updated>2023-05-10T06:22:43.829193+00:00</updated><content type="html"><![CDATA[<h2>README_TO_RECOVER_YOUR_DATA</h2>
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/11" rel="alternate"/><category term="TODO"/><published>2023-04-18T01:47:17+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/10</id><title>蓝桥杯又要摆烂了~</title><updated>2023-05-10T06:29:49.148596+00:00</updated><content type="html"><![CDATA[<p>这段时间也没怎么刷蓝桥的题了，感觉8号的蓝桥杯要g，也算是预料之内吧。当然，当初报名的初心就是能通过报名算法类的竞赛，提高自己的算法能力，然后大概100天的时间，也刷了LC大概160道（摆烂式刷题），系统学了数据结构等知识，也总结了算法笔记，让自己对曾经不敢接触的东西，有了新的认知。总之，收获还是有的，这300块的报名费，值得，目的算是达到了。希望后面的时间，也要继续做题，冲。</p>
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/10" rel="alternate"/><category term="碎碎念"/><published>2023-04-06T01:53:01+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/9</id><title>数据库又被黑了 真佛了...</title><updated>2023-05-10T06:29:49.326642+00:00</updated><content type="html"><![CDATA[<h2>README_TO_RECOVER_YOUR_DATA</h2>
 <blockquote>
 <p>由于自己练手项目的数据库用的mongodb，想着练手，不重要，当时没做安全考虑，将配置文件上传到了仓库。后来想着还是添加到忽略的文件中，但是不起作用，改得了一次提交，改不了所有的提交记录，由于之前的提交记录仍然存在账号密码，想着应该没人会搞吧，即使搞了也不重要，就没去折腾了。</p>
 </blockquote>
@@ -57,21 +111,21 @@
 <p>还是同样的操作，重建了数据库，这次快多了。设置了比较强的密码！！</p>
 <p>期待下一次！🥲
 💤</p>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/9" rel="alternate"/><category term="碎碎念"/><published>2023-03-29T16:46:07+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/8</id><title>报了软考 预言家说：铁定能过！</title><updated>2023-05-10T06:22:43.947669+00:00</updated><content type="html"><![CDATA[<h2>距离2023.5.27日还有大概两个月⏰</h2>
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/9" rel="alternate"/><category term="碎碎念"/><published>2023-03-29T16:46:07+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/8</id><title>报了软考 预言家说：铁定能过！</title><updated>2023-05-10T06:29:49.501419+00:00</updated><content type="html"><![CDATA[<h2>距离2023.5.27日还有大概两个月⏰</h2>
 <p>接下来的日子里，忙项目、背面经、找实习、备考等等，似乎忙不过来了
 计划一下，好好渡过，忙有所得，忙有所思
 加油吧！ </p>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/8" rel="alternate"/><category term="碎碎念"/><published>2023-03-25T10:52:03+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/7</id><title>友情链接格式✔️</title><updated>2023-05-10T06:22:44.057477+00:00</updated><content type="html"><![CDATA[<p>显示到友情链接的方法：评论，然后将下面对应部分替换成你的，我点了爱心就可以自动添加啦。
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/8" rel="alternate"/><category term="碎碎念"/><published>2023-03-25T10:52:03+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/7</id><title>友情链接格式✔️</title><updated>2023-05-10T06:29:49.665131+00:00</updated><content type="html"><![CDATA[<p>显示到友情链接的方法：评论，然后将下面对应部分替换成你的，我点了爱心就可以自动添加啦。
 名字：HealUP
 链接：<a href="https://github.com/HealUP/MyBlog">https://github.com/HealUP/MyBlog</a>
 描述：blog</p>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/7" rel="alternate"/><category term="TOP"/><category term="Friends"/><published>2023-03-25T05:15:45+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/6</id><title>4月份就要结束了，一些要做的事</title><updated>2023-05-10T06:22:44.173836+00:00</updated><content type="html"><![CDATA[<h2>4月份-4月中旬</h2>
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/7" rel="alternate"/><category term="TOP"/><category term="Friends"/><published>2023-03-25T05:15:45+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/6</id><title>4月份就要结束了，一些要做的事</title><updated>2023-05-10T06:29:49.845736+00:00</updated><content type="html"><![CDATA[<h2>4月份-4月中旬</h2>
 <ul>
 <li><input checked="" disabled="" type="checkbox"> 总结好项目</li>
 <li><input checked="" disabled="" type="checkbox"> 投简历</li>
 <li><input checked="" disabled="" type="checkbox"> 接收工作室项目</li>
 </ul>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/6" rel="alternate"/><category term="TODO"/><published>2023-03-24T13:14:38+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/4</id><title>README看起来更顺眼了！😁</title><updated>2023-05-10T06:22:44.290684+00:00</updated><content type="html"><![CDATA[<p>参考了大佬们的博客，抽了点时间美化了一下readme，主要做了以下几件事</p>
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/6" rel="alternate"/><category term="TODO"/><published>2023-03-24T13:14:38+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/4</id><title>README看起来更顺眼了！😁</title><updated>2023-05-10T06:29:50.043332+00:00</updated><content type="html"><![CDATA[<p>参考了大佬们的博客，抽了点时间美化了一下readme，主要做了以下几件事</p>
 <ul>
 <li>wakatime 数据显示</li>
 </ul>
@@ -87,7 +141,7 @@
 <li>Extra pin 放了简历上的两个项目
 花了点时间折腾，之前想着放年贪吃蛇吃贡献砖块的，还不小心给另外的actions给覆盖了，又让我重搞readme,崩溃🥲 又多折腾了会</li>
 </ul>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/4" rel="alternate"/><category term="Have a try"/><published>2023-03-24T12:30:58+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/3</id><title>给个人PC加了一根16G的内存条，有点起飞的感觉！</title><updated>2023-05-10T06:22:44.419755+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/4" rel="alternate"/><category term="Have a try"/><published>2023-03-24T12:30:58+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/3</id><title>给个人PC加了一根16G的内存条，有点起飞的感觉！</title><updated>2023-05-10T06:29:50.275634+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>电脑买的是拯救者的y7000,20款的，当时花了6100左右，想着以后可以自己扩展内存条，并且对硬盘空间要求不是很大，就买了8g的内存，512的硬盘款的，便宜点。具体配置:</p>
 </blockquote>
 <p><img src="https://user-images.githubusercontent.com/72082506/227256029-50aa38a4-6a80-4ccd-b85c-37e659b30ba8.png" alt="image" /></p>
@@ -95,8 +149,8 @@
 <li>原装内存条是8G，一年前买了一根8G的加了进去，当时是220r,老贵了。后来发现写项目跑微服务，内存一下子飙到99％🥲很不流畅，为了提高体验感，让电脑更加流畅点，索性换了16G的进去，现在好多了，同时跑多个服务+开多个软件+网页浏览，大概60％左右，爽，速度明显提高，体验感倍儿好。</li>
 </ul>
 <p><img src="https://user-images.githubusercontent.com/72082506/227259258-862929bf-7e14-43a0-9a66-07aff7a508ba.jpg" alt="0988cbc17653e4404b389f76f56d4bf" /></p>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/3" rel="alternate"/><category term="Daily🔆"/><published>2023-03-23T15:53:29+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/2</id><title>支持RSS订阅</title><updated>2023-05-10T06:22:44.541820+00:00</updated><content type="html"><![CDATA[<p>大家可以将RSS链接添加到阅读器里，方便及时获取到博客的内容，感谢关注~❤️</p>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/2" rel="alternate"/><category term="Have a try"/><published>2023-03-23T08:16:09+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/1</id><title>GitBlog 诞生</title><updated>2023-05-10T06:22:44.676408+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/3" rel="alternate"/><category term="Daily🔆"/><published>2023-03-23T15:53:29+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/2</id><title>支持RSS订阅</title><updated>2023-05-10T06:29:50.472394+00:00</updated><content type="html"><![CDATA[<p>大家可以将RSS链接添加到阅读器里，方便及时获取到博客的内容，感谢关注~❤️</p>
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/2" rel="alternate"/><category term="Have a try"/><published>2023-03-23T08:16:09+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/1</id><title>GitBlog 诞生</title><updated>2023-05-10T06:29:50.674532+00:00</updated><content type="html"><![CDATA[<ul>
 <li>
 <p>测试actions</p>
 </li>
