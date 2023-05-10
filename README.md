@@ -10,7 +10,7 @@
 - [友情链接格式✔️](https://github.com/HealUP/MyBlog/issues/7)--2023-03-25
 ## 最近更新
 - [LC 20.有效的括号](https://github.com/HealUP/MyBlog/issues/16)--2023-05-10
-- [一维数组⭐⭐⭐⭐](https://github.com/HealUP/MyBlog/issues/15)--2023-05-10
+- [LC 704.二分查找⭐⭐⭐⭐](https://github.com/HealUP/MyBlog/issues/15)--2023-05-10
 - [快慢指针⭐⭐⭐⭐](https://github.com/HealUP/MyBlog/issues/14)--2023-05-10
 - [📌刷题策略](https://github.com/HealUP/MyBlog/issues/13)--2023-05-10
 - [于香港中文大学](https://github.com/HealUP/MyBlog/issues/12)--2023-04-22
@@ -19,7 +19,7 @@
 - [友情链接格式✔️](https://github.com/HealUP/MyBlog/issues/7)--2023-03-25
 ## 算法
 - [LC 20.有效的括号](https://github.com/HealUP/MyBlog/issues/16)--2023-05-10
-- [一维数组⭐⭐⭐⭐](https://github.com/HealUP/MyBlog/issues/15)--2023-05-10
+- [LC 704.二分查找⭐⭐⭐⭐](https://github.com/HealUP/MyBlog/issues/15)--2023-05-10
 - [快慢指针⭐⭐⭐⭐](https://github.com/HealUP/MyBlog/issues/14)--2023-05-10
 - [📌刷题策略](https://github.com/HealUP/MyBlog/issues/13)--2023-05-10
 ## Daily🔆
@@ -31,7 +31,7 @@
 ## Orienteering
 - [于香港中文大学](https://github.com/HealUP/MyBlog/issues/12)--2023-04-22
 ## 二分查找
-- [一维数组⭐⭐⭐⭐](https://github.com/HealUP/MyBlog/issues/15)--2023-05-10
+- [LC 704.二分查找⭐⭐⭐⭐](https://github.com/HealUP/MyBlog/issues/15)--2023-05-10
 ## 双指针
 - [快慢指针⭐⭐⭐⭐](https://github.com/HealUP/MyBlog/issues/14)--2023-05-10
 ## 栈
