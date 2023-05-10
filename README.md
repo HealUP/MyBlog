@@ -9,15 +9,16 @@
 - [📌刷题策略](https://github.com/HealUP/MyBlog/issues/13)--2023-05-10
 - [友情链接格式✔️](https://github.com/HealUP/MyBlog/issues/7)--2023-03-25
 ## 最近更新
+- [二分查找⭐⭐⭐⭐](https://github.com/HealUP/MyBlog/issues/15)--2023-05-10
 - [双指针⭐⭐⭐⭐](https://github.com/HealUP/MyBlog/issues/14)--2023-05-10
 - [📌刷题策略](https://github.com/HealUP/MyBlog/issues/13)--2023-05-10
 - [于香港中文大学](https://github.com/HealUP/MyBlog/issues/12)--2023-04-22
 - [5月份计划🗓️](https://github.com/HealUP/MyBlog/issues/11)--2023-04-18
-- [蓝桥杯又要摆烂了~](https://github.com/HealUP/MyBlog/issues/10)--2023-04-06
 ## TOP
 - [📌刷题策略](https://github.com/HealUP/MyBlog/issues/13)--2023-05-10
 - [友情链接格式✔️](https://github.com/HealUP/MyBlog/issues/7)--2023-03-25
 ## 算法
+- [二分查找⭐⭐⭐⭐](https://github.com/HealUP/MyBlog/issues/15)--2023-05-10
 - [双指针⭐⭐⭐⭐](https://github.com/HealUP/MyBlog/issues/14)--2023-05-10
 - [📌刷题策略](https://github.com/HealUP/MyBlog/issues/13)--2023-05-10
 ## Daily🔆
@@ -28,6 +29,8 @@
 - [GitBlog 诞生](https://github.com/HealUP/MyBlog/issues/1)--2023-03-23
 ## Orienteering
 - [于香港中文大学](https://github.com/HealUP/MyBlog/issues/12)--2023-04-22
+## 二分查找
+- [二分查找⭐⭐⭐⭐](https://github.com/HealUP/MyBlog/issues/15)--2023-05-10
 ## 双指针
 - [双指针⭐⭐⭐⭐](https://github.com/HealUP/MyBlog/issues/14)--2023-05-10
 ## 碎碎念
