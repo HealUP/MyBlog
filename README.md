@@ -9,7 +9,7 @@
 - [📌刷题策略](https://github.com/HealUP/MyBlog/issues/13)--2023-05-10
 - [友情链接格式✔️](https://github.com/HealUP/MyBlog/issues/7)--2023-03-25
 ## 最近更新
-- [215. 数组中的第K个最大元素](https://github.com/HealUP/MyBlog/issues/18)--2023-05-11
+- [LC215. 数组中的第K个最大元素](https://github.com/HealUP/MyBlog/issues/18)--2023-05-11
 - [LC912. 排序数组 ](https://github.com/HealUP/MyBlog/issues/17)--2023-05-11
 - [LC 20.有效的括号⭐⭐⭐⭐](https://github.com/HealUP/MyBlog/issues/16)--2023-05-10
 - [LC 704.二分查找⭐⭐⭐⭐](https://github.com/HealUP/MyBlog/issues/15)--2023-05-10
@@ -23,7 +23,7 @@
 - [📌刷题策略](https://github.com/HealUP/MyBlog/issues/13)--2023-05-10
 - [友情链接格式✔️](https://github.com/HealUP/MyBlog/issues/7)--2023-03-25
 ## 算法
-- [215. 数组中的第K个最大元素](https://github.com/HealUP/MyBlog/issues/18)--2023-05-11
+- [LC215. 数组中的第K个最大元素](https://github.com/HealUP/MyBlog/issues/18)--2023-05-11
 - [LC912. 排序数组 ](https://github.com/HealUP/MyBlog/issues/17)--2023-05-11
 - [LC 20.有效的括号⭐⭐⭐⭐](https://github.com/HealUP/MyBlog/issues/16)--2023-05-10
 - [LC 704.二分查找⭐⭐⭐⭐](https://github.com/HealUP/MyBlog/issues/15)--2023-05-10
@@ -40,7 +40,7 @@
 ## 双指针
 - [LC 27.移除元素 & 26.删除排序数组中的重复项⭐⭐⭐⭐](https://github.com/HealUP/MyBlog/issues/14)--2023-05-10
 ## 排序
-- [215. 数组中的第K个最大元素](https://github.com/HealUP/MyBlog/issues/18)--2023-05-11
+- [LC215. 数组中的第K个最大元素](https://github.com/HealUP/MyBlog/issues/18)--2023-05-11
 - [LC912. 排序数组 ](https://github.com/HealUP/MyBlog/issues/17)--2023-05-11
 ## 栈
 - [LC 20.有效的括号⭐⭐⭐⭐](https://github.com/HealUP/MyBlog/issues/16)--2023-05-10
