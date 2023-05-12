@@ -9,11 +9,11 @@
 - [📌刷题策略](https://github.com/HealUP/MyBlog/issues/13)--2023-05-10
 - [友情链接格式✔️](https://github.com/HealUP/MyBlog/issues/7)--2023-03-25
 ## 最近更新
+- [剑指 Offer 29. 顺时针打印矩阵](https://github.com/HealUP/MyBlog/issues/24)--2023-05-12
 - [LC 226.翻转二叉树](https://github.com/HealUP/MyBlog/issues/23)--2023-05-12
 - [LC双周赛 —6300. 最小公共值](https://github.com/HealUP/MyBlog/issues/22)--2023-05-11
 - [349. 两个数组的交集🤓🤓](https://github.com/HealUP/MyBlog/issues/21)--2023-05-11
 - [时间复杂度❗](https://github.com/HealUP/MyBlog/issues/20)--2023-05-11
-- [LC242. 有效的字母异位词🤓🤓](https://github.com/HealUP/MyBlog/issues/19)--2023-05-11
 ## Trying
 - [README看起来更顺眼了！😁](https://github.com/HealUP/MyBlog/issues/4)--2023-03-24
 - [给个人PC加了一根16G的内存条，有点起飞的感觉！](https://github.com/HealUP/MyBlog/issues/3)--2023-03-23
@@ -23,13 +23,14 @@
 - [📌刷题策略](https://github.com/HealUP/MyBlog/issues/13)--2023-05-10
 - [友情链接格式✔️](https://github.com/HealUP/MyBlog/issues/7)--2023-03-25
 ## 算法
+- [剑指 Offer 29. 顺时针打印矩阵](https://github.com/HealUP/MyBlog/issues/24)--2023-05-12
 - [LC 226.翻转二叉树](https://github.com/HealUP/MyBlog/issues/23)--2023-05-12
 - [LC双周赛 —6300. 最小公共值](https://github.com/HealUP/MyBlog/issues/22)--2023-05-11
 - [349. 两个数组的交集🤓🤓](https://github.com/HealUP/MyBlog/issues/21)--2023-05-11
 - [时间复杂度❗](https://github.com/HealUP/MyBlog/issues/20)--2023-05-11
-- [LC242. 有效的字母异位词🤓🤓](https://github.com/HealUP/MyBlog/issues/19)--2023-05-11
 <details><summary>显示更多</summary>
 
+- [LC242. 有效的字母异位词🤓🤓](https://github.com/HealUP/MyBlog/issues/19)--2023-05-11
 - [LC215. 数组中的第K个最大元素](https://github.com/HealUP/MyBlog/issues/18)--2023-05-11
 - [LC912. 排序数组 ](https://github.com/HealUP/MyBlog/issues/17)--2023-05-11
 - [LC 20.有效的括号⭐⭐⭐⭐](https://github.com/HealUP/MyBlog/issues/16)--2023-05-10
@@ -54,6 +55,8 @@
 - [LC912. 排序数组 ](https://github.com/HealUP/MyBlog/issues/17)--2023-05-11
 ## 栈
 - [LC 20.有效的括号⭐⭐⭐⭐](https://github.com/HealUP/MyBlog/issues/16)--2023-05-10
+## 模拟
+- [剑指 Offer 29. 顺时针打印矩阵](https://github.com/HealUP/MyBlog/issues/24)--2023-05-12
 ## 碎碎念
 - [蓝桥杯又要摆烂了~](https://github.com/HealUP/MyBlog/issues/10)--2023-04-06
 - [数据库又被黑了 真佛了...](https://github.com/HealUP/MyBlog/issues/9)--2023-03-29
