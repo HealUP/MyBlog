@@ -18,7 +18,7 @@
 - [README看起来更顺眼了！😁](https://github.com/HealUP/MyBlog/issues/4)--2023-03-24
 - [给个人PC加了一根16G的内存条，有点起飞的感觉！](https://github.com/HealUP/MyBlog/issues/3)--2023-03-23
 - [支持RSS订阅](https://github.com/HealUP/MyBlog/issues/2)--2023-03-23
-- [GitBlog 诞生](https://github.com/HealUP/MyBlog/issues/1)--2023-03-23
+- [GitHub-Blog 诞生](https://github.com/HealUP/MyBlog/issues/1)--2023-03-23
 ## TOP
 - [📌刷题策略](https://github.com/HealUP/MyBlog/issues/13)--2023-05-10
 - [友情链接格式✔️](https://github.com/HealUP/MyBlog/issues/7)--2023-03-25
