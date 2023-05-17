@@ -62,11 +62,11 @@
 - [数据库又被黑了 真佛了...](https://github.com/HealUP/MyBlog/issues/9)--2023-03-29
 - [报了软考 预言家说：铁定能过！](https://github.com/HealUP/MyBlog/issues/8)--2023-03-25
 ## TODO
-TODO list from [5月份计划🗓️](https://github.com/HealUP/MyBlog/issues/11)--2 jobs to do--4 jobs done
-- [x] 算法笔记迁移 & 复习旧题
+TODO list from [5月份计划🗓️](https://github.com/HealUP/MyBlog/issues/11)--3 jobs to do--3 jobs done
 - [x] 分类总结八股文
 - [x] 简历项目面试准备
 - [x] 完成工作室项目开发进度
+- [ ] 算法笔记迁移 & 复习旧题
 - [ ] 准备软考
 - [ ] 完善wyy项目
 
