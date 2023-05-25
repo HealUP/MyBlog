@@ -1,5 +1,6 @@
 ## Gitblog
 🤳My personal blog using issues and GitHub Actions
+🔍这是我的个人博客,我相信,GitHub将赋予它永恒。
 [RSS Feed](https://raw.githubusercontent.com/HealUP/MyBlog/master/feed.xml)
 ## 友情链接
 | Name | Link | Desc | 
@@ -9,7 +10,7 @@
 - [📌刷题策略](https://github.com/HealUP/MyBlog/issues/13)--2023-05-10
 - [友情链接格式✔️](https://github.com/HealUP/MyBlog/issues/7)--2023-03-25
 ## 最近更新
-- [大二那会折腾的homeassitant👣](https://github.com/HealUP/MyBlog/issues/34)--2023-05-25
+- [大二那会折腾的homeassitant,接入树莓派👣](https://github.com/HealUP/MyBlog/issues/34)--2023-05-25
 - [快速排序⭐⭐⭐](https://github.com/HealUP/MyBlog/issues/33)--2023-05-24
 - [LC 111. 二叉树的最小深度](https://github.com/HealUP/MyBlog/issues/32)--2023-05-18
 - [LC 117. 填充每个节点的下一个右侧节点指针II](https://github.com/HealUP/MyBlog/issues/31)--2023-05-18
@@ -23,7 +24,7 @@
 - [📌刷题策略](https://github.com/HealUP/MyBlog/issues/13)--2023-05-10
 - [友情链接格式✔️](https://github.com/HealUP/MyBlog/issues/7)--2023-03-25
 ## 折腾的事儿
-- [大二那会折腾的homeassitant👣](https://github.com/HealUP/MyBlog/issues/34)--2023-05-25
+- [大二那会折腾的homeassitant,接入树莓派👣](https://github.com/HealUP/MyBlog/issues/34)--2023-05-25
 ## 算法
 - [快速排序⭐⭐⭐](https://github.com/HealUP/MyBlog/issues/33)--2023-05-24
 - [LC 111. 二叉树的最小深度](https://github.com/HealUP/MyBlog/issues/32)--2023-05-18
