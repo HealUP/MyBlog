@@ -10,11 +10,11 @@
 - [📌刷题策略](https://github.com/HealUP/MyBlog/issues/13)--2023-05-10
 - [友情链接格式✔️](https://github.com/HealUP/MyBlog/issues/7)--2023-03-25
 ## 最近更新
+- [🗓️6月份计划](https://github.com/HealUP/MyBlog/issues/35)--2023-06-02
 - [大二那会折腾的homeassitant,接入树莓派👣](https://github.com/HealUP/MyBlog/issues/34)--2023-05-25
 - [快速排序⭐⭐⭐](https://github.com/HealUP/MyBlog/issues/33)--2023-05-24
 - [LC 111. 二叉树的最小深度](https://github.com/HealUP/MyBlog/issues/32)--2023-05-18
 - [LC 117. 填充每个节点的下一个右侧节点指针II](https://github.com/HealUP/MyBlog/issues/31)--2023-05-18
-- [LC 116. 填充每个节点的下一个右侧节点指针](https://github.com/HealUP/MyBlog/issues/30)--2023-05-18
 ## Trying
 - [README看起来更顺眼了！😁](https://github.com/HealUP/MyBlog/issues/4)--2023-03-24
 - [给个人PC加了一根16G的内存条，有点起飞的感觉！](https://github.com/HealUP/MyBlog/issues/3)--2023-03-23
