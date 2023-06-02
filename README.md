@@ -87,6 +87,15 @@
 - [数据库又被黑了 真佛了...](https://github.com/HealUP/MyBlog/issues/9)--2023-03-29
 - [报了软考 预言家说：铁定能过！](https://github.com/HealUP/MyBlog/issues/8)--2023-03-25
 ## TODO
+TODO list from [🗓️6月份计划](https://github.com/HealUP/MyBlog/issues/35)--6 jobs to do--1 jobs done
+- [x] 找到一份Java后端的实习岗位
+- [ ] 持续跟进学校工作室项目，按时完成交付
+- [ ] 熟悉公司业务（尽快上手开发）
+- [ ] 备考六级
+- [ ] 总结面试经验
+- [ ] 持续学习并输出学习blog
+- [ ] 八股文持续总结输出
+
 TODO list from [5月份计划🗓️](https://github.com/HealUP/MyBlog/issues/11) all done
 
 TODO list from [4月份就要结束了，一些要做的事](https://github.com/HealUP/MyBlog/issues/6) all done
