@@ -1,5 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/HealUP/MyBlog</id><title>RSS feed of HealUP's MyBlog</title><updated>2023-06-02T15:03:49.206386+00:00</updated><author><name>HealUP</name><email>1571826275@qq.com</email></author><link href="https://github.com/HealUP/MyBlog"/><link href="https://raw.githubusercontent.com/HealUP/MyBlog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/HealUP/MyBlog/issues/35</id><title>🗓️6月份计划</title><updated>2023-06-02T15:03:49.482733+00:00</updated><content type="html"><![CDATA[<h1>👣
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/HealUP/MyBlog</id><title>RSS feed of HealUP's MyBlog</title><updated>2023-06-03T09:26:02.862215+00:00</updated><author><name>HealUP</name><email>1571826275@qq.com</email></author><link href="https://github.com/HealUP/MyBlog"/><link href="https://raw.githubusercontent.com/HealUP/MyBlog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/HealUP/MyBlog/issues/36</id><title>6.1 这一天，拿到了一个实习offer</title><updated>2023-06-03T09:26:03.235103+00:00</updated><content type="html"><![CDATA[<h2>尝试</h2>
+<blockquote>
+<p>过年的那段时间，我就准备好了简历，想着2023年，一定要完成自己的实习目标，3，4月份的时候，各个互联网大厂已经开始招人了，甚至部分较好的公司2月份就开始了，我深知自己学历上差很多，能力上更是不足以满足自己的野心。调整好心态，从4月份开始尝试投简历，陆陆续续收到一些规模几百人的互联网公司的笔试，当时参加了3场笔试，考的基本都是自己以往做过的算法题，但是终究还是没能AC，也失去了一些机会。（机会真的留给准备好的人）</p>
+</blockquote>
+<h2>疲</h2>
+<blockquote>
+<p>4.5月份也都经常修改简历，投简历，准备面试，这两个月真的很多很多事，比方说：广东省大学生定向越野竞标赛、MathorCup数学建模竞赛、软考、6级准备、工作室项目、预备党员转正资料准备等等，兼顾的这些的同时，还得好好准备面试，真是身心俱疲了。s好在都取得了不错的成绩！自己比较满意，收拾心情，继续提高自己，等待机会。</p>
+</blockquote>
+<h2>选择</h2>
+<blockquote>
+<p>5月末，很幸运，能够得到两个比较满意的公司的线下面试邀请（感谢hr小姐姐给我机会🌝），这也是我人生中第一次求职，虽然自己觉得能力上真的还欠缺很多，总感觉没有准备好，但是我还是很自信地去面对，最后的结果还是比较满意的，公司不大，但足以给自己一个肯定，更加坚定的走下去。第一家面试通过了，面试结束后面试官说我还不错，给了我很大的鼓励；第二天继续面试了第二家公司，第一印象就是充满活力、年轻向上的公司，是我喜欢的氛围，但是4个面试官轮流面我一个实习生，有点受宠若惊🥲，虽然面试中我也有磕磕巴巴思路不清晰的时候，但面试官很好，鼓励的同时适当引导，接受我的不足，很感谢。最后通过了自己也比较惊喜，最后我也很抱歉的拒绝了第一家的人事小姐姐，抱歉，感谢信任~</p>
+</blockquote>
+<h3>有失有得</h3>
+<blockquote>
+<p>我不知道我的选择是否正确，但我明白无论是哪一种选择都是有失有得的，最重要的是时刻保持危机感，有计划的提升自己，不断学习，乐观前进，加油吧，一定可以！</p>
+</blockquote>
+<p><img src="https://github.com/HealUP/MyBlog/assets/72082506/bce6fb34-18f8-4add-a317-868df2e207dc" alt="75f9bb225f00de2a5dcd3f085bc2616" /></p>
+<p>在公司楼下的M记🍔🍟</p>
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/36" rel="alternate"/><category term="TOP"/><category term="Trying"/><published>2023-06-03T09:25:34+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/35</id><title>🗓️6月份计划</title><updated>2023-06-03T09:26:03.338463+00:00</updated><content type="html"><![CDATA[<h1>👣
 热爱生活，感受当下！加油！🌝</h1>
 <ul>
 <li><input checked="" disabled="" type="checkbox"> 找到一份Java后端的实习岗位</li>
@@ -15,8 +33,8 @@
 <li>设计模并运用到项目</li>
 <li><input disabled="" type="checkbox"> 八股文持续总结输出</li>
 </ul>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/35" rel="alternate"/><category term="TODO"/><published>2023-06-02T14:55:22+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/34</id><title>大二那会折腾的homeassitant,接入树莓派👣</title><updated>2023-06-02T15:03:49.584878+00:00</updated><content type="html"><![CDATA[<p><a href="https://blog.csdn.net/weixin_47198051/article/details/122988221?spm=1001.2014.3001.5501">https://blog.csdn.net/weixin_47198051/article/details/122988221?spm=1001.2014.3001.5501</a></p>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/34" rel="alternate"/><category term="折腾的事儿"/><published>2023-05-25T11:07:07+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/33</id><title>快速排序⭐⭐⭐</title><updated>2023-06-02T15:03:49.675701+00:00</updated><content type="html"><![CDATA[<p>理论基础：快速排序是一种常见的排序算法，使用分治的思想来排序一个数组或列表。它的基本思想是选择一个<strong>基准数</strong>，<strong>将数组分成两个部分</strong>，一部分是小于基准数的，另一部分是大于等于基准数的，然后再对这两部分递归地进行排序</p>
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/35" rel="alternate"/><category term="TODO"/><published>2023-06-02T14:55:22+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/34</id><title>大二那会折腾的homeassitant,接入树莓派👣</title><updated>2023-06-03T09:26:03.427363+00:00</updated><content type="html"><![CDATA[<p><a href="https://blog.csdn.net/weixin_47198051/article/details/122988221?spm=1001.2014.3001.5501">https://blog.csdn.net/weixin_47198051/article/details/122988221?spm=1001.2014.3001.5501</a></p>
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/34" rel="alternate"/><category term="折腾的事儿"/><published>2023-05-25T11:07:07+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/33</id><title>快速排序⭐⭐⭐</title><updated>2023-06-03T09:26:03.522127+00:00</updated><content type="html"><![CDATA[<p>理论基础：快速排序是一种常见的排序算法，使用分治的思想来排序一个数组或列表。它的基本思想是选择一个<strong>基准数</strong>，<strong>将数组分成两个部分</strong>，一部分是小于基准数的，另一部分是大于等于基准数的，然后再对这两部分递归地进行排序</p>
 <p>时间复杂度：nlogn</p>
 <p>具体步骤如下：</p>
 <ol>
@@ -57,7 +75,7 @@
     }
 }
 </code></pre>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/33" rel="alternate"/><category term="算法"/><category term="排序"/><published>2023-05-24T15:36:17+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/32</id><title>LC 111. 二叉树的最小深度</title><updated>2023-06-02T15:03:49.784793+00:00</updated><content type="html"><![CDATA[<h3>111. 二叉树的最小深度</h3>
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/33" rel="alternate"/><category term="算法"/><category term="排序"/><published>2023-05-24T15:36:17+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/32</id><title>LC 111. 二叉树的最小深度</title><updated>2023-06-03T09:26:03.610090+00:00</updated><content type="html"><![CDATA[<h3>111. 二叉树的最小深度</h3>
 <blockquote>
 <p>思路：遍历每一层的时候，记录次数；当该节点的左右节点都为空的时候，直接返回当前的深度即可，如果左右节点不为空就加入队列</p>
 </blockquote>
@@ -86,7 +104,7 @@
     }
 }
 </code></pre>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/32" rel="alternate"/><category term="算法"/><category term="二叉树"/><published>2023-05-18T15:42:21+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/31</id><title>LC 117. 填充每个节点的下一个右侧节点指针II</title><updated>2023-06-02T15:03:49.865036+00:00</updated><content type="html"><![CDATA[<h3>117. 填充每个节点的下一个右侧节点指针II</h3>
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/32" rel="alternate"/><category term="算法"/><category term="二叉树"/><published>2023-05-18T15:42:21+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/31</id><title>LC 117. 填充每个节点的下一个右侧节点指针II</title><updated>2023-06-03T09:26:03.701645+00:00</updated><content type="html"><![CDATA[<h3>117. 填充每个节点的下一个右侧节点指针II</h3>
 <blockquote>
 <p>该题目和116的区别：就是116题是完全二叉树，这道题不是完全二叉树，题解完全一样的。<strong><code>略</code></strong></p>
 </blockquote>
@@ -116,7 +134,7 @@
     }
 }
 </code></pre>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/31" rel="alternate"/><category term="算法"/><category term="二叉树"/><published>2023-05-18T15:41:53+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/30</id><title>LC 116. 填充每个节点的下一个右侧节点指针</title><updated>2023-06-02T15:03:49.952226+00:00</updated><content type="html"><![CDATA[<h3>116. 填充每个节点的下一个右侧节点指针</h3>
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/31" rel="alternate"/><category term="算法"/><category term="二叉树"/><published>2023-05-18T15:41:53+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/30</id><title>LC 116. 填充每个节点的下一个右侧节点指针</title><updated>2023-06-03T09:26:03.804386+00:00</updated><content type="html"><![CDATA[<h3>116. 填充每个节点的下一个右侧节点指针</h3>
 <blockquote>
 <p>思路：</p>
 </blockquote>
@@ -171,7 +189,7 @@ class Solution {
     }
 }
 </code></pre>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/30" rel="alternate"/><category term="算法"/><category term="二叉树"/><published>2023-05-18T15:41:12+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/29</id><title>LC 515. 在每个树行中找最大值</title><updated>2023-06-02T15:03:50.051722+00:00</updated><content type="html"><![CDATA[<h3>515. 在每个树行中找最大值</h3>
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/30" rel="alternate"/><category term="算法"/><category term="二叉树"/><published>2023-05-18T15:41:12+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/29</id><title>LC 515. 在每个树行中找最大值</title><updated>2023-06-03T09:26:03.895555+00:00</updated><content type="html"><![CDATA[<h3>515. 在每个树行中找最大值</h3>
 <blockquote>
 <p>思路：层序遍历，取每一层的最大值，放到一维数组，最后返回结果集</p>
 </blockquote>
@@ -209,7 +227,7 @@ class Solution {
     }
 }
 </code></pre>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/29" rel="alternate"/><category term="算法"/><category term="二叉树"/><published>2023-05-18T15:38:38+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/28</id><title>N叉树的层序遍历</title><updated>2023-06-02T15:03:50.161859+00:00</updated><content type="html"><![CDATA[<h3>N叉树的层序遍历</h3>
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/29" rel="alternate"/><category term="算法"/><category term="二叉树"/><published>2023-05-18T15:38:38+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/28</id><title>N叉树的层序遍历</title><updated>2023-06-03T09:26:03.994037+00:00</updated><content type="html"><![CDATA[<h3>N叉树的层序遍历</h3>
 <blockquote>
 <p>思路：依然是层序遍历，只是<strong>节点的孩子有多个了</strong>，children也是List<Node>类型的,将节点的所有孩子遍历后全部放入队列即可：</p>
 </blockquote>
@@ -271,7 +289,7 @@ class Node {
     }
 };
 </code></pre>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/28" rel="alternate"/><category term="算法"/><category term="二叉树"/><published>2023-05-18T15:38:00+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/27</id><title>LC 637. 二叉树的层平均值</title><updated>2023-06-02T15:03:50.260250+00:00</updated><content type="html"><![CDATA[<h3>637. 二叉树的层平均值</h3>
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/28" rel="alternate"/><category term="算法"/><category term="二叉树"/><published>2023-05-18T15:38:00+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/27</id><title>LC 637. 二叉树的层平均值</title><updated>2023-06-03T09:26:04.085451+00:00</updated><content type="html"><![CDATA[<h3>637. 二叉树的层平均值</h3>
 <p>思路：</p>
 <ul>
 <li>层次遍历的时候，每一层求一个总和</li>
@@ -314,7 +332,7 @@ class Node {
 }
 因为len改变了，就无法计算sum/len了，这点要注意
 </code></pre>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/27" rel="alternate"/><category term="算法"/><category term="二叉树"/><published>2023-05-18T15:36:44+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/26</id><title>LC107. 二叉树的层次遍历</title><updated>2023-06-02T15:03:50.359157+00:00</updated><content type="html"><![CDATA[<h3>3.2 107. 二叉树的层次遍历</h3>
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/27" rel="alternate"/><category term="算法"/><category term="二叉树"/><published>2023-05-18T15:36:44+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/26</id><title>LC107. 二叉树的层次遍历</title><updated>2023-06-03T09:26:04.180842+00:00</updated><content type="html"><![CDATA[<h3>3.2 107. 二叉树的层次遍历</h3>
 <pre><code class="language-java">class Solution {
     public List&lt;List&lt;Integer&gt;&gt; levelOrderBottom(TreeNode root) {
         /*思路：
@@ -356,7 +374,7 @@ class Node {
     }
 }
 </code></pre>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/26" rel="alternate"/><category term="算法"/><category term="二叉树"/><published>2023-05-18T15:36:11+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/25</id><title>LC 102.二叉树的层序遍历</title><updated>2023-06-02T15:03:50.468550+00:00</updated><content type="html"><![CDATA[<h3>102. 二叉树的层次遍历</h3>
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/26" rel="alternate"/><category term="算法"/><category term="二叉树"/><published>2023-05-18T15:36:11+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/25</id><title>LC 102.二叉树的层序遍历</title><updated>2023-06-03T09:26:04.291607+00:00</updated><content type="html"><![CDATA[<h3>102. 二叉树的层次遍历</h3>
 <blockquote>
 <p><strong>思路</strong>：</p>
 </blockquote>
@@ -423,7 +441,7 @@ class Solution {
     }
 }
 </code></pre>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/25" rel="alternate"/><category term="算法"/><category term="二叉树"/><published>2023-05-18T15:33:22+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/24</id><title>剑指 Offer 29. 顺时针打印矩阵</title><updated>2023-06-02T15:03:50.577133+00:00</updated><content type="html"><![CDATA[<h3>[<a href="https://leetcode.cn/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/">剑指 Offer 29. 顺时针打印矩阵</a>](https://leetcode.cn/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/)</h3>
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/25" rel="alternate"/><category term="算法"/><category term="二叉树"/><published>2023-05-18T15:33:22+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/24</id><title>剑指 Offer 29. 顺时针打印矩阵</title><updated>2023-06-03T09:26:04.383146+00:00</updated><content type="html"><![CDATA[<h3>[<a href="https://leetcode.cn/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/">剑指 Offer 29. 顺时针打印矩阵</a>](https://leetcode.cn/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/)</h3>
 <p><strong>思路分析：根据题目示例 matrix = [[1,2,3],[4,5,6],[7,8,9]] 的对应</strong>输出 [1,2,3,6,9,8,7,4,5] 可以发现，顺时针打印矩阵的顺序是 “从左向右、从上向下、从右向左、从下向上” 循环。</p>
 <p><a href="https://leetcode.cn/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/solution/mian-shi-ti-29-shun-shi-zhen-da-yin-ju-zhen-she-d">https://leetcode.cn/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/solution/mian-shi-ti-29-shun-shi-zhen-da-yin-ju-zhen-she-d</a></p>
 <pre><code class="language-java">class Solution {
@@ -469,7 +487,7 @@ class Solution {
 <blockquote>
 <p>小厂笔试第一题</p>
 </blockquote>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/24" rel="alternate"/><category term="算法"/><category term="模拟"/><published>2023-05-12T11:30:48+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/23</id><title>LC 226.翻转二叉树 ⭐⭐⭐⭐</title><updated>2023-06-02T15:03:50.666403+00:00</updated><content type="html"><![CDATA[<h3>226. 翻转二叉树</h3>
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/24" rel="alternate"/><category term="算法"/><category term="模拟"/><published>2023-05-12T11:30:48+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/23</id><title>LC 226.翻转二叉树 ⭐⭐⭐⭐</title><updated>2023-06-03T09:26:04.480551+00:00</updated><content type="html"><![CDATA[<h3>226. 翻转二叉树</h3>
 <blockquote>
 <p>解决方案包括<strong>递归法</strong>和<strong>非递归</strong>法：</p>
 <ul>
@@ -541,7 +559,7 @@ class Solution {
 }
 </code></pre>
 <h3></h3>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/23" rel="alternate"/><category term="算法"/><category term="二叉树"/><published>2023-05-12T11:28:53+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/22</id><title>LC双周赛 —6300. 最小公共值</title><updated>2023-06-02T15:03:50.766347+00:00</updated><content type="html"><![CDATA[<p>##第 96 场</p>
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/23" rel="alternate"/><category term="算法"/><category term="二叉树"/><published>2023-05-12T11:28:53+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/22</id><title>LC双周赛 —6300. 最小公共值</title><updated>2023-06-03T09:26:04.568607+00:00</updated><content type="html"><![CDATA[<p>##第 96 场</p>
 <p><strong>双周赛 —6300. 最小公共值</strong></p>
 <p>题目链接：<a href="https://leetcode.cn/contest/biweekly-contest-96/problems/minimum-common-value/">https://leetcode.cn/contest/biweekly-contest-96/problems/minimum-common-value/</a></p>
 <p>自己写的：</p>
@@ -595,7 +613,7 @@ class Solution {
     }
 }
 </code></pre>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/22" rel="alternate"/><category term="算法"/><category term="哈希法"/><published>2023-05-11T07:28:46+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/21</id><title>349. 两个数组的交集🤓🤓</title><updated>2023-06-02T15:03:50.857751+00:00</updated><content type="html"><![CDATA[<h2>哈希法—set集合实现</h2>
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/22" rel="alternate"/><category term="算法"/><category term="哈希法"/><published>2023-05-11T07:28:46+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/21</id><title>349. 两个数组的交集🤓🤓</title><updated>2023-06-03T09:26:04.651249+00:00</updated><content type="html"><![CDATA[<h2>哈希法—set集合实现</h2>
 <h3>2.1 349. 两个数组的交集</h3>
 <p><strong>一些提示：</strong></p>
 <ul>
@@ -646,7 +664,7 @@ resSet.stream()：对 resSet 集合进行流操作，返回一个 Stream&lt;Inte
 <li>
 </li>
 </ul>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/21" rel="alternate"/><category term="算法"/><category term="哈希法"/><published>2023-05-11T07:24:00+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/20</id><title>时间复杂度❗</title><updated>2023-06-02T15:03:50.944924+00:00</updated><content type="html"><![CDATA[<p>如图所示：
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/21" rel="alternate"/><category term="算法"/><category term="哈希法"/><published>2023-05-11T07:24:00+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/20</id><title>时间复杂度❗</title><updated>2023-06-03T09:26:04.740702+00:00</updated><content type="html"><![CDATA[<p>如图所示：
 <img src="https://s2.loli.net/2023/05/11/OJAsnZ8d7gpSVuz.png" alt="image-20230510150615098.png" />
 (图来源不明，侵删，抱歉)</p>
 <ul>
@@ -670,7 +688,7 @@ resSet.stream()：对 resSet 集合进行流操作，返回一个 Stream&lt;Inte
 <p>指数阶:增长得非常快，在实际应用中一般是不能被接受的。若一个问题使用「暴力枚举」求解的时间复杂度是 O(2^n) ，那么一般都需要使用**「动态规划」或「贪心算法」**等算法来求解</p>
 </li>
 </ul>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/20" rel="alternate"/><category term="算法"/><published>2023-05-11T07:08:16+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/19</id><title>LC242. 有效的字母异位词🤓🤓</title><updated>2023-06-02T15:03:51.037525+00:00</updated><content type="html"><![CDATA[<h2>哈希法—数组实现</h2>
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/20" rel="alternate"/><category term="算法"/><published>2023-05-11T07:08:16+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/19</id><title>LC242. 有效的字母异位词🤓🤓</title><updated>2023-06-03T09:26:04.842557+00:00</updated><content type="html"><![CDATA[<h2>哈希法—数组实现</h2>
 <p><strong>思路分析</strong>：</p>
 <p>使用一个数组记录字符串S出现的次数，若该字母出现了一次，该位置的元素值加一；再遍历另外一个字符串，若出现一次就在数组对应位置的值减一。</p>
 <blockquote>
@@ -700,7 +718,7 @@ resSet.stream()：对 resSet 集合进行流操作，返回一个 Stream&lt;Inte
     }
 }
 </code></pre>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/19" rel="alternate"/><category term="算法"/><category term="哈希法"/><published>2023-05-11T06:58:36+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/18</id><title>LC215. 数组中的第K个最大元素</title><updated>2023-06-02T15:03:51.131823+00:00</updated><content type="html"><![CDATA[<h4>[<a href="https://leetcode.cn/problems/kth-largest-element-in-an-array/">215. 数组中的第K个最大元素</a>](https://leetcode.cn/problems/kth-largest-element-in-an-array/)</h4>
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/19" rel="alternate"/><category term="算法"/><category term="哈希法"/><published>2023-05-11T06:58:36+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/18</id><title>LC215. 数组中的第K个最大元素</title><updated>2023-06-03T09:26:04.927442+00:00</updated><content type="html"><![CDATA[<h4>[<a href="https://leetcode.cn/problems/kth-largest-element-in-an-array/">215. 数组中的第K个最大元素</a>](https://leetcode.cn/problems/kth-largest-element-in-an-array/)</h4>
 <pre><code class="language-java">class Solution {
     public int findKthLargest(int[] nums, int k) {
         // 快速排序 小的放到右边，大的放到左边即可
@@ -738,7 +756,7 @@ resSet.stream()：对 resSet 集合进行流操作，返回一个 Stream&lt;Inte
     }
 }
 </code></pre>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/18" rel="alternate"/><category term="算法"/><category term="排序"/><published>2023-05-11T06:41:05+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/17</id><title>LC912. 排序数组 </title><updated>2023-06-02T15:03:51.224997+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/18" rel="alternate"/><category term="算法"/><category term="排序"/><published>2023-05-11T06:41:05+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/17</id><title>LC912. 排序数组 </title><updated>2023-06-03T09:26:05.018456+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>理论基础：快速排序是一种常见的排序算法，使用分治的思想来排序一个数组或列表。它的基本思想是选择一个<strong>基准数</strong>，<strong>将数组分成两个部分</strong>，一部分是小于基准数的，另一部分是大于等于基准数的，然后再对这两部分递归地进行排序。</p>
 </blockquote>
 <p>好的情况：<strong>时间复杂度：nlogn</strong></p>
@@ -838,7 +856,7 @@ resSet.stream()：对 resSet 集合进行流操作，返回一个 Stream&lt;Inte
 }
 
 </code></pre>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/17" rel="alternate"/><category term="算法"/><category term="排序"/><published>2023-05-11T06:38:11+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/16</id><title>LC 20.有效的括号⭐⭐⭐⭐</title><updated>2023-06-02T15:03:51.329599+00:00</updated><content type="html"><![CDATA[<p>20.有效的括号🤓🤓</p>
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/17" rel="alternate"/><category term="算法"/><category term="排序"/><published>2023-05-11T06:38:11+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/16</id><title>LC 20.有效的括号⭐⭐⭐⭐</title><updated>2023-06-03T09:26:05.111022+00:00</updated><content type="html"><![CDATA[<p>20.有效的括号🤓🤓</p>
 <ul>
 <li><strong>括号匹配是使用栈解决的经典问题</strong></li>
 </ul>
@@ -886,7 +904,7 @@ resSet.stream()：对 resSet 集合进行流操作，返回一个 Stream&lt;Inte
     }
 }
 </code></pre>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/16" rel="alternate"/><category term="算法"/><category term="栈"/><published>2023-05-10T06:39:17+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/15</id><title>LC 704.二分查找⭐⭐⭐⭐</title><updated>2023-06-02T15:03:51.422800+00:00</updated><content type="html"><![CDATA[<p>704.二分查找🤓🤓
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/16" rel="alternate"/><category term="算法"/><category term="栈"/><published>2023-05-10T06:39:17+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/15</id><title>LC 704.二分查找⭐⭐⭐⭐</title><updated>2023-06-03T09:26:05.203378+00:00</updated><content type="html"><![CDATA[<p>704.二分查找🤓🤓
 <strong>思路分析：</strong></p>
 <blockquote>
 <p>二分查找法是一种在<strong>有序数组</strong>中查找某一特定元素的搜索算法。搜索过程从数组的中间元素开始，如果中间元素正好是要查找的元素，则搜索过程结束；如果某一特定元素大于或者小于中间元素，则在数组大于或小于中间元素的那一半中查找，而且跟开始一样从中间元素开始比较。如果在某一步骤数组为空，则代表找不到。这种搜索算法每一次比较都使搜索范围缩小一半</p>
@@ -925,7 +943,7 @@ resSet.stream()：对 resSet 集合进行流操作，返回一个 Stream&lt;Inte
         return -1;
     }
 </code></pre>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/15" rel="alternate"/><category term="算法"/><category term="二分查找"/><published>2023-05-10T06:31:49+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/14</id><title>LC 27.移除元素 &amp; 26.删除排序数组中的重复项⭐⭐⭐⭐</title><updated>2023-06-02T15:03:51.532522+00:00</updated><content type="html"><![CDATA[<h3>快慢指针</h3>
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/15" rel="alternate"/><category term="算法"/><category term="二分查找"/><published>2023-05-10T06:31:49+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/14</id><title>LC 27.移除元素 &amp; 26.删除排序数组中的重复项⭐⭐⭐⭐</title><updated>2023-06-03T09:26:05.292205+00:00</updated><content type="html"><![CDATA[<h3>快慢指针</h3>
 <p><strong>通过一个快指针和慢指针在一个for循环下完成两个for循环的工作。</strong></p>
 <ul>
 <li>
@@ -979,7 +997,7 @@ resSet.stream()：对 resSet 集合进行流操作，返回一个 Stream&lt;Inte
     }
 }
 </code></pre>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/14" rel="alternate"/><category term="算法"/><category term="双指针"/><published>2023-05-10T06:29:04+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/13</id><title>📌刷题策略</title><updated>2023-06-02T15:03:51.629579+00:00</updated><content type="html"><![CDATA[<h3>以下是个人总结的刷题方法💡</h3>
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/14" rel="alternate"/><category term="算法"/><category term="双指针"/><published>2023-05-10T06:29:04+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/13</id><title>📌刷题策略</title><updated>2023-06-03T09:26:05.392969+00:00</updated><content type="html"><![CDATA[<h3>以下是个人总结的刷题方法💡</h3>
 <ul>
 <li>
 <p>初刷（<strong>一题控制在半小时</strong>）</p>
@@ -1012,10 +1030,10 @@ resSet.stream()：对 resSet 集合进行流操作，返回一个 Stream&lt;Inte
 </blockquote>
 </li>
 </ul>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/13" rel="alternate"/><category term="TOP"/><published>2023-05-10T06:22:07+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/12</id><title>于香港中文大学</title><updated>2023-06-02T15:03:51.735992+00:00</updated><content type="html"><![CDATA[<p>这次省赛原本是2022年应该举办的，但是由于疫情延迟到了今天，本次的举办地点香港中文大学深圳校区，先附上几张图片吧。
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/13" rel="alternate"/><category term="TOP"/><published>2023-05-10T06:22:07+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/12</id><title>于香港中文大学</title><updated>2023-06-03T09:26:05.509450+00:00</updated><content type="html"><![CDATA[<p>这次省赛原本是2022年应该举办的，但是由于疫情延迟到了今天，本次的举办地点香港中文大学深圳校区，先附上几张图片吧。
 <img src="https://user-images.githubusercontent.com/72082506/233777613-10306e27-b9eb-45f0-962d-9cb7e95a5523.jpeg" alt="mmexport42474e6a459898e414415f83633a8d1a_1682136901577" />
 <img src="https://user-images.githubusercontent.com/72082506/233777623-267a2964-b349-4601-813d-95208364df1f.jpg" alt="20230421_235020" /></p>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/12" rel="alternate"/><category term="Orienteering"/><published>2023-04-22T10:07:33+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/11</id><title>5月份计划🗓️</title><updated>2023-06-02T15:03:51.828493+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/12" rel="alternate"/><category term="Orienteering"/><published>2023-04-22T10:07:33+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/11</id><title>5月份计划🗓️</title><updated>2023-06-03T09:26:05.610192+00:00</updated><content type="html"><![CDATA[<ul>
 <li><input checked="" disabled="" type="checkbox"> 算法笔记迁移 &amp; 复习旧题</li>
 <li><input checked="" disabled="" type="checkbox"> 分类总结八股文</li>
 <li><input checked="" disabled="" type="checkbox"> 简历项目面试准备</li>
@@ -1023,8 +1041,8 @@ resSet.stream()：对 resSet 集合进行流操作，返回一个 Stream&lt;Inte
 <li><input checked="" disabled="" type="checkbox"> 准备软考</li>
 <li><input checked="" disabled="" type="checkbox"> 完善wyy项目</li>
 </ul>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/11" rel="alternate"/><category term="TODO"/><published>2023-04-18T01:47:17+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/10</id><title>蓝桥杯又要摆烂了~</title><updated>2023-06-02T15:03:51.919904+00:00</updated><content type="html"><![CDATA[<p>这段时间也没怎么刷蓝桥的题了，感觉8号的蓝桥杯要g，也算是预料之内吧。当然，当初报名的初心就是能通过报名算法类的竞赛，提高自己的算法能力，然后大概100天的时间，也刷了LC大概160道（摆烂式刷题），系统学了数据结构等知识，也总结了算法笔记，让自己对曾经不敢接触的东西，有了新的认知。总之，收获还是有的，这300块的报名费，值得，目的算是达到了。希望后面的时间，也要继续做题，冲。</p>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/10" rel="alternate"/><category term="碎碎念"/><published>2023-04-06T01:53:01+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/9</id><title>数据库又被黑了 真佛了...</title><updated>2023-06-02T15:03:52.007142+00:00</updated><content type="html"><![CDATA[<h2>README_TO_RECOVER_YOUR_DATA</h2>
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/11" rel="alternate"/><category term="TODO"/><published>2023-04-18T01:47:17+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/10</id><title>蓝桥杯又要摆烂了~</title><updated>2023-06-03T09:26:05.692688+00:00</updated><content type="html"><![CDATA[<p>这段时间也没怎么刷蓝桥的题了，感觉8号的蓝桥杯要g，也算是预料之内吧。当然，当初报名的初心就是能通过报名算法类的竞赛，提高自己的算法能力，然后大概100天的时间，也刷了LC大概160道（摆烂式刷题），系统学了数据结构等知识，也总结了算法笔记，让自己对曾经不敢接触的东西，有了新的认知。总之，收获还是有的，这300块的报名费，值得，目的算是达到了。希望后面的时间，也要继续做题，冲。</p>
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/10" rel="alternate"/><category term="碎碎念"/><published>2023-04-06T01:53:01+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/9</id><title>数据库又被黑了 真佛了...</title><updated>2023-06-03T09:26:05.772557+00:00</updated><content type="html"><![CDATA[<h2>README_TO_RECOVER_YOUR_DATA</h2>
 <blockquote>
 <p>由于自己练手项目的数据库用的mongodb，想着练手，不重要，当时没做安全考虑，将配置文件上传到了仓库。后来想着还是添加到忽略的文件中，但是不起作用，改得了一次提交，改不了所有的提交记录，由于之前的提交记录仍然存在账号密码，想着应该没人会搞吧，即使搞了也不重要，就没去折腾了。</p>
 </blockquote>
@@ -1037,21 +1055,21 @@ resSet.stream()：对 resSet 集合进行流操作，返回一个 Stream&lt;Inte
 <p>还是同样的操作，重建了数据库，这次快多了。设置了比较强的密码！！</p>
 <p>期待下一次！🥲
 💤</p>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/9" rel="alternate"/><category term="碎碎念"/><published>2023-03-29T16:46:07+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/8</id><title>报了软考 预言家说：铁定能过！</title><updated>2023-06-02T15:03:52.115673+00:00</updated><content type="html"><![CDATA[<h2>距离2023.5.27日还有大概两个月⏰</h2>
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/9" rel="alternate"/><category term="碎碎念"/><published>2023-03-29T16:46:07+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/8</id><title>报了软考 预言家说：铁定能过！</title><updated>2023-06-03T09:26:05.861080+00:00</updated><content type="html"><![CDATA[<h2>距离2023.5.27日还有大概两个月⏰</h2>
 <p>接下来的日子里，忙项目、背面经、找实习、备考等等，似乎忙不过来了
 计划一下，好好渡过，忙有所得，忙有所思
 加油吧！ </p>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/8" rel="alternate"/><category term="碎碎念"/><published>2023-03-25T10:52:03+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/7</id><title>友情链接格式✔️</title><updated>2023-06-02T15:03:52.215184+00:00</updated><content type="html"><![CDATA[<p>显示到友情链接的方法：评论，然后将下面对应部分替换成你的，我点了爱心就可以自动添加啦。
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/8" rel="alternate"/><category term="碎碎念"/><published>2023-03-25T10:52:03+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/7</id><title>友情链接格式✔️</title><updated>2023-06-03T09:26:05.942935+00:00</updated><content type="html"><![CDATA[<p>显示到友情链接的方法：评论，然后将下面对应部分替换成你的，我点了爱心就可以自动添加啦。
 名字：HealUP
 链接：<a href="https://github.com/HealUP/MyBlog">https://github.com/HealUP/MyBlog</a>
 描述：blog</p>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/7" rel="alternate"/><category term="TOP"/><category term="Friends"/><published>2023-03-25T05:15:45+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/6</id><title>4月份就要结束了，一些要做的事</title><updated>2023-06-02T15:03:52.320421+00:00</updated><content type="html"><![CDATA[<h2>4月份-4月中旬</h2>
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/7" rel="alternate"/><category term="TOP"/><category term="Friends"/><published>2023-03-25T05:15:45+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/6</id><title>4月份就要结束了，一些要做的事</title><updated>2023-06-03T09:26:06.105841+00:00</updated><content type="html"><![CDATA[<h2>4月份-4月中旬</h2>
 <ul>
 <li><input checked="" disabled="" type="checkbox"> 总结好项目</li>
 <li><input checked="" disabled="" type="checkbox"> 投简历</li>
 <li><input checked="" disabled="" type="checkbox"> 接收工作室项目</li>
 </ul>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/6" rel="alternate"/><category term="TODO"/><published>2023-03-24T13:14:38+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/4</id><title>README看起来更顺眼了！😁</title><updated>2023-06-02T15:03:52.520586+00:00</updated><content type="html"><![CDATA[<p>参考了大佬们的博客，抽了点时间美化了一下readme，主要做了以下几件事</p>
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/6" rel="alternate"/><category term="TODO"/><published>2023-03-24T13:14:38+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/4</id><title>README看起来更顺眼了！😁</title><updated>2023-06-03T09:26:06.183281+00:00</updated><content type="html"><![CDATA[<p>参考了大佬们的博客，抽了点时间美化了一下readme，主要做了以下几件事</p>
 <ul>
 <li>wakatime 数据显示</li>
 </ul>
@@ -1067,7 +1085,7 @@ resSet.stream()：对 resSet 集合进行流操作，返回一个 Stream&lt;Inte
 <li>Extra pin 放了简历上的两个项目
 花了点时间折腾，之前想着放年贪吃蛇吃贡献砖块的，还不小心给另外的actions给覆盖了，又让我重搞readme,崩溃🥲 又多折腾了会</li>
 </ul>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/4" rel="alternate"/><category term="Trying"/><published>2023-03-24T12:30:58+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/3</id><title>给个人PC加了一根16G的内存条，有点起飞的感觉！</title><updated>2023-06-02T15:03:52.632612+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/4" rel="alternate"/><category term="Trying"/><published>2023-03-24T12:30:58+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/3</id><title>给个人PC加了一根16G的内存条，有点起飞的感觉！</title><updated>2023-06-03T09:26:06.275806+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>电脑买的是拯救者的y7000,20款的，当时花了6100左右，想着以后可以自己扩展内存条，并且对硬盘空间要求不是很大，就买了8g的内存，512的硬盘款的，便宜点。具体配置:</p>
 </blockquote>
 <p><img src="https://user-images.githubusercontent.com/72082506/227256029-50aa38a4-6a80-4ccd-b85c-37e659b30ba8.png" alt="image" /></p>
@@ -1075,8 +1093,8 @@ resSet.stream()：对 resSet 集合进行流操作，返回一个 Stream&lt;Inte
 <li>原装内存条是8G，一年前买了一根8G的加了进去，当时是220r,老贵了。后来发现写项目跑微服务，内存一下子飙到99％🥲很不流畅，为了提高体验感，让电脑更加流畅点，索性换了16G的进去，现在好多了，同时跑多个服务+开多个软件+网页浏览，大概60％左右，爽，速度明显提高，体验感倍儿好。</li>
 </ul>
 <p><img src="https://user-images.githubusercontent.com/72082506/227259258-862929bf-7e14-43a0-9a66-07aff7a508ba.jpg" alt="0988cbc17653e4404b389f76f56d4bf" /></p>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/3" rel="alternate"/><category term="Trying"/><published>2023-03-23T15:53:29+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/2</id><title>支持RSS订阅</title><updated>2023-06-02T15:03:52.734007+00:00</updated><content type="html"><![CDATA[<p>大家可以将RSS链接添加到阅读器里，方便及时获取到博客的内容，感谢关注~❤️</p>
-]]></content><link href="https://github.com/HealUP/MyBlog/issues/2" rel="alternate"/><category term="Trying"/><published>2023-03-23T08:16:09+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/1</id><title>GitHub-Blog 诞生</title><updated>2023-06-02T15:03:52.830384+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/3" rel="alternate"/><category term="Trying"/><published>2023-03-23T15:53:29+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/2</id><title>支持RSS订阅</title><updated>2023-06-03T09:26:06.364662+00:00</updated><content type="html"><![CDATA[<p>大家可以将RSS链接添加到阅读器里，方便及时获取到博客的内容，感谢关注~❤️</p>
+]]></content><link href="https://github.com/HealUP/MyBlog/issues/2" rel="alternate"/><category term="Trying"/><published>2023-03-23T08:16:09+00:00</published></entry><entry><id>https://github.com/HealUP/MyBlog/issues/1</id><title>GitHub-Blog 诞生</title><updated>2023-06-03T09:26:06.453184+00:00</updated><content type="html"><![CDATA[<ul>
 <li>
 <p>测试actions</p>
 </li>
