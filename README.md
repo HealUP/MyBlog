@@ -11,11 +11,11 @@
 - [📌刷题策略](https://github.com/HealUP/MyBlog/issues/13)--2023-05-10
 - [友情链接格式✔️](https://github.com/HealUP/MyBlog/issues/7)--2023-03-25
 ## 最近更新
+- [🗓️7月份计划](https://github.com/HealUP/MyBlog/issues/38)--2023-07-01
 - [索引✅](https://github.com/HealUP/MyBlog/issues/37)--2023-06-11
 - [6.1 这一天，拿到了两个实习offer🍾](https://github.com/HealUP/MyBlog/issues/36)--2023-06-03
 - [🗓️6月份计划](https://github.com/HealUP/MyBlog/issues/35)--2023-06-02
 - [大二那会折腾的homeassitant,接入树莓派👣](https://github.com/HealUP/MyBlog/issues/34)--2023-05-25
-- [快速排序⭐⭐⭐](https://github.com/HealUP/MyBlog/issues/33)--2023-05-24
 ## Trying
 - [6.1 这一天，拿到了两个实习offer🍾](https://github.com/HealUP/MyBlog/issues/36)--2023-06-03
 - [README看起来更顺眼了！😁](https://github.com/HealUP/MyBlog/issues/4)--2023-03-24
@@ -92,6 +92,15 @@
 - [数据库又被黑了 真佛了...](https://github.com/HealUP/MyBlog/issues/9)--2023-03-29
 - [报了软考 预言家说：铁定能过！](https://github.com/HealUP/MyBlog/issues/8)--2023-03-25
 ## TODO
+TODO list from [🗓️7月份计划](https://github.com/HealUP/MyBlog/issues/38)--7 jobs to do--0 jobs done
+- [ ] 熟悉公司项目⭐⭐⭐
+- [ ] 结合项目持续学习redis⭐⭐⭐
+- [ ] 设计模式⭐⭐⭐
+- [ ] Mysql总结输出⭐⭐⭐
+- [ ] 微服务架构持续学习⭐⭐⭐
+- [ ] 业务文档整理、技术方案总结，文字表达能力⭐⭐
+- [ ] JVM学习+总结排错思路 ⭐⭐
+
 TODO list from [🗓️6月份计划](https://github.com/HealUP/MyBlog/issues/35) all done
 
 TODO list from [5月份计划🗓️](https://github.com/HealUP/MyBlog/issues/11) all done
