@@ -92,7 +92,7 @@
 - [数据库又被黑了 真佛了...](https://github.com/HealUP/MyBlog/issues/9)--2023-03-29
 - [报了软考 预言家说：铁定能过！](https://github.com/HealUP/MyBlog/issues/8)--2023-03-25
 ## TODO
-TODO list from [🗓️7月份计划](https://github.com/HealUP/MyBlog/issues/38)--8 jobs to do--0 jobs done
+TODO list from [🗓️7月份计划](https://github.com/HealUP/MyBlog/issues/38)--9 jobs to do--0 jobs done
 - [ ] 熟悉公司项目🧑‍💻⭐⭐⭐
 - [ ] 结合项目持续学习redis🧑‍💻⭐⭐⭐
 - [ ] 设计模式🧑‍💻⭐⭐⭐
@@ -101,6 +101,7 @@ TODO list from [🗓️7月份计划](https://github.com/HealUP/MyBlog/issues/38
 - [ ] 业务文档整理、技术方案总结，文字表达能力🧑‍💻⭐⭐
 - [ ] JVM学习+总结排错思路🧑‍💻 ⭐⭐
 - [ ] 英语听力+单词🚇⭐⭐⭐
+- [ ] 算法+SQL⭐⭐
 
 TODO list from [🗓️6月份计划](https://github.com/HealUP/MyBlog/issues/35) all done
 
