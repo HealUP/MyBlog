@@ -92,13 +92,13 @@
 - [数据库又被黑了 真佛了...](https://github.com/HealUP/MyBlog/issues/9)--2023-03-29
 - [报了软考 预言家说：铁定能过！](https://github.com/HealUP/MyBlog/issues/8)--2023-03-25
 ## TODO
-TODO list from [🗓️6月份计划](https://github.com/HealUP/MyBlog/issues/35)--5 jobs to do--2 jobs done
+TODO list from [🗓️6月份计划](https://github.com/HealUP/MyBlog/issues/35)--1 jobs to do--6 jobs done
 - [x] 找到一份Java后端的实习岗位
+- [x] 持续跟进学校工作室项目，按时完成交付
+- [x] 熟悉公司业务（尽快上手开发）
 - [x] 备考六级
-- [ ] 持续跟进学校工作室项目，按时完成交付
-- [ ] 熟悉公司业务（尽快上手开发）
-- [ ] 总结面试经验
-- [ ] 持续学习并输出学习blog
+- [x] 总结面试经验
+- [x] 持续学习并输出学习blog
 - [ ] 八股文持续总结输出
 
 TODO list from [5月份计划🗓️](https://github.com/HealUP/MyBlog/issues/11) all done
