@@ -7,16 +7,17 @@
  | ---- | ---- | ---- |
 | HealUP | https://github.com/HealUP/MyBlog | blog |
 ## 置顶文章
+- [单例模式](https://github.com/HealUP/MyBlog/issues/40)--2023-07-10
 - [策略模式](https://github.com/HealUP/MyBlog/issues/39)--2023-07-06
 - [6.1 这一天，拿到了两个实习offer🍾](https://github.com/HealUP/MyBlog/issues/36)--2023-06-03
 - [📌刷题策略](https://github.com/HealUP/MyBlog/issues/13)--2023-05-10
 - [友情链接格式✔️](https://github.com/HealUP/MyBlog/issues/7)--2023-03-25
 ## 最近更新
+- [单例模式](https://github.com/HealUP/MyBlog/issues/40)--2023-07-10
 - [策略模式](https://github.com/HealUP/MyBlog/issues/39)--2023-07-06
 - [🗓️7月份计划](https://github.com/HealUP/MyBlog/issues/38)--2023-07-01
 - [索引✅](https://github.com/HealUP/MyBlog/issues/37)--2023-06-11
 - [6.1 这一天，拿到了两个实习offer🍾](https://github.com/HealUP/MyBlog/issues/36)--2023-06-03
-- [🗓️6月份计划](https://github.com/HealUP/MyBlog/issues/35)--2023-06-02
 ## Trying
 - [6.1 这一天，拿到了两个实习offer🍾](https://github.com/HealUP/MyBlog/issues/36)--2023-06-03
 - [README看起来更顺眼了！😁](https://github.com/HealUP/MyBlog/issues/4)--2023-03-24
@@ -24,6 +25,7 @@
 - [支持RSS订阅](https://github.com/HealUP/MyBlog/issues/2)--2023-03-23
 - [GitHub-Blog 诞生](https://github.com/HealUP/MyBlog/issues/1)--2023-03-23
 ## TOP
+- [单例模式](https://github.com/HealUP/MyBlog/issues/40)--2023-07-10
 - [策略模式](https://github.com/HealUP/MyBlog/issues/39)--2023-07-06
 - [6.1 这一天，拿到了两个实习offer🍾](https://github.com/HealUP/MyBlog/issues/36)--2023-06-03
 - [📌刷题策略](https://github.com/HealUP/MyBlog/issues/13)--2023-05-10
@@ -94,6 +96,7 @@
 - [数据库又被黑了 真佛了...](https://github.com/HealUP/MyBlog/issues/9)--2023-03-29
 - [报了软考 预言家说：铁定能过！](https://github.com/HealUP/MyBlog/issues/8)--2023-03-25
 ## 设计模式
+- [单例模式](https://github.com/HealUP/MyBlog/issues/40)--2023-07-10
 - [策略模式](https://github.com/HealUP/MyBlog/issues/39)--2023-07-06
 ## TODO
 TODO list from [🗓️7月份计划](https://github.com/HealUP/MyBlog/issues/38)--9 jobs to do--0 jobs done
