@@ -7,11 +7,7 @@
  | ---- | ---- | ---- |
 | HealUP | https://github.com/HealUP/MyBlog | blog |
 ## 置顶文章
-- [单例模式](https://github.com/HealUP/MyBlog/issues/40)--2023-07-10
-- [策略模式](https://github.com/HealUP/MyBlog/issues/39)--2023-07-06
 - [6.1 这一天，拿到了两个实习offer🍾](https://github.com/HealUP/MyBlog/issues/36)--2023-06-03
-- [📌刷题策略](https://github.com/HealUP/MyBlog/issues/13)--2023-05-10
-- [友情链接格式✔️](https://github.com/HealUP/MyBlog/issues/7)--2023-03-25
 ## 最近更新
 - [单例模式](https://github.com/HealUP/MyBlog/issues/40)--2023-07-10
 - [策略模式](https://github.com/HealUP/MyBlog/issues/39)--2023-07-06
@@ -25,11 +21,7 @@
 - [支持RSS订阅](https://github.com/HealUP/MyBlog/issues/2)--2023-03-23
 - [GitHub-Blog 诞生](https://github.com/HealUP/MyBlog/issues/1)--2023-03-23
 ## TOP
-- [单例模式](https://github.com/HealUP/MyBlog/issues/40)--2023-07-10
-- [策略模式](https://github.com/HealUP/MyBlog/issues/39)--2023-07-06
 - [6.1 这一天，拿到了两个实习offer🍾](https://github.com/HealUP/MyBlog/issues/36)--2023-06-03
-- [📌刷题策略](https://github.com/HealUP/MyBlog/issues/13)--2023-05-10
-- [友情链接格式✔️](https://github.com/HealUP/MyBlog/issues/7)--2023-03-25
 ## 折腾的事儿
 - [大二那会折腾的homeassitant,接入树莓派👣](https://github.com/HealUP/MyBlog/issues/34)--2023-05-25
 ## MySQL
@@ -95,11 +87,16 @@
 - [蓝桥杯又要摆烂了~](https://github.com/HealUP/MyBlog/issues/10)--2023-04-06
 - [数据库又被黑了 真佛了...](https://github.com/HealUP/MyBlog/issues/9)--2023-03-29
 - [报了软考 预言家说：铁定能过！](https://github.com/HealUP/MyBlog/issues/8)--2023-03-25
+## 置顶文章
+- [单例模式](https://github.com/HealUP/MyBlog/issues/40)--2023-07-10
+- [策略模式](https://github.com/HealUP/MyBlog/issues/39)--2023-07-06
+- [📌刷题策略](https://github.com/HealUP/MyBlog/issues/13)--2023-05-10
+- [友情链接格式✔️](https://github.com/HealUP/MyBlog/issues/7)--2023-03-25
 ## 设计模式
 - [单例模式](https://github.com/HealUP/MyBlog/issues/40)--2023-07-10
 - [策略模式](https://github.com/HealUP/MyBlog/issues/39)--2023-07-06
 ## TODO
-TODO list from [🗓️7月份计划](https://github.com/HealUP/MyBlog/issues/38)--9 jobs to do--0 jobs done
+TODO list from [🗓️7月份计划](https://github.com/HealUP/MyBlog/issues/38)--11 jobs to do--0 jobs done
 - [ ] 熟悉公司项目🧑‍💻⭐⭐⭐
 - [ ] 结合项目持续学习redis🧑‍💻⭐⭐⭐
 - [ ] 设计模式🧑‍💻⭐⭐⭐
@@ -107,8 +104,10 @@ TODO list from [🗓️7月份计划](https://github.com/HealUP/MyBlog/issues/38
 - [ ] 微服务架构持续学习🧑‍💻⭐⭐⭐
 - [ ] 业务文档整理、技术方案总结，文字表达能力🧑‍💻⭐⭐
 - [ ] JVM学习+总结排错思路🧑‍💻 ⭐⭐
+- [ ] 出一版新的简历内容⭐⭐⭐⭐⭐
 - [ ] 英语听力+单词🚇⭐⭐⭐
 - [ ] 算法+SQL⭐⭐
+- [ ] 月度总结❗
 
 TODO list from [🗓️6月份计划](https://github.com/HealUP/MyBlog/issues/35) all done
 
