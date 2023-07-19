@@ -99,15 +99,15 @@
 - [单例模式](https://github.com/HealUP/MyBlog/issues/40)--2023-07-10
 - [策略模式](https://github.com/HealUP/MyBlog/issues/39)--2023-07-06
 ## TODO
-TODO list from [🗓️7月份计划](https://github.com/HealUP/MyBlog/issues/38)--11 jobs to do--0 jobs done
-- [ ] 熟悉公司项目🧑‍💻⭐⭐⭐
-- [ ] 结合项目持续学习redis🧑‍💻⭐⭐⭐
+TODO list from [🗓️7月份计划](https://github.com/HealUP/MyBlog/issues/38)--7 jobs to do--4 jobs done
+- [x] 熟悉公司项目🧑‍💻⭐⭐⭐
+- [x] 结合项目持续学习redis🧑‍💻⭐⭐⭐
+- [x] JVM学习+总结排错思路🧑‍💻 ⭐⭐
+- [x] 出一版新的简历内容⭐⭐⭐⭐⭐
 - [ ] 设计模式🧑‍💻⭐⭐⭐
 - [ ] Mysql总结输出🧑‍💻⭐⭐⭐
 - [ ] 微服务架构持续学习🧑‍💻⭐⭐⭐
 - [ ] 业务文档整理、技术方案总结，文字表达能力🧑‍💻⭐⭐
-- [ ] JVM学习+总结排错思路🧑‍💻 ⭐⭐
-- [ ] 出一版新的简历内容⭐⭐⭐⭐⭐
 - [ ] 英语听力+单词🚇⭐⭐⭐
 - [ ] 算法+SQL⭐⭐
 - [ ] 月度总结❗
