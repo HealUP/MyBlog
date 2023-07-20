@@ -7,7 +7,7 @@
  | ---- | ---- | ---- |
 | HealUP | https://github.com/HealUP/MyBlog | blog |
 ## 置顶文章
-- [6.1 这一天，拿到了两个实习offer🍾](https://github.com/HealUP/MyBlog/issues/36)--2023-06-03
+- [6.1🍾](https://github.com/HealUP/MyBlog/issues/36)--2023-06-03
 ## 最近更新
 - [28. 找出字符串中第一个匹配项的下标——KMP算法](https://github.com/HealUP/MyBlog/issues/41)--2023-07-10
 - [单例模式](https://github.com/HealUP/MyBlog/issues/40)--2023-07-10
@@ -15,13 +15,13 @@
 - [🗓️7月份计划](https://github.com/HealUP/MyBlog/issues/38)--2023-07-01
 - [索引✅](https://github.com/HealUP/MyBlog/issues/37)--2023-06-11
 ## Trying
-- [6.1 这一天，拿到了两个实习offer🍾](https://github.com/HealUP/MyBlog/issues/36)--2023-06-03
+- [6.1🍾](https://github.com/HealUP/MyBlog/issues/36)--2023-06-03
 - [README看起来更顺眼了！😁](https://github.com/HealUP/MyBlog/issues/4)--2023-03-24
 - [给个人PC加了一根16G的内存条，有点起飞的感觉！](https://github.com/HealUP/MyBlog/issues/3)--2023-03-23
 - [支持RSS订阅](https://github.com/HealUP/MyBlog/issues/2)--2023-03-23
 - [GitHub-Blog 诞生](https://github.com/HealUP/MyBlog/issues/1)--2023-03-23
 ## TOP
-- [6.1 这一天，拿到了两个实习offer🍾](https://github.com/HealUP/MyBlog/issues/36)--2023-06-03
+- [6.1🍾](https://github.com/HealUP/MyBlog/issues/36)--2023-06-03
 ## 折腾的事儿
 - [大二那会折腾的homeassitant,接入树莓派👣](https://github.com/HealUP/MyBlog/issues/34)--2023-05-25
 ## MySQL
