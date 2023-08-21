@@ -7,11 +7,11 @@
  | ---- | ---- | ---- |
 | HealUP | https://github.com/HealUP/MyBlog | blog |
 ## 最近更新
+- [8月份计划🗓️](https://github.com/HealUP/MyBlog/issues/44)--2023-08-21
 - [UML图](https://github.com/HealUP/MyBlog/issues/42)--2023-07-29
 - [28. 找出字符串中第一个匹配项的下标——KMP算法](https://github.com/HealUP/MyBlog/issues/41)--2023-07-10
 - [单例模式](https://github.com/HealUP/MyBlog/issues/40)--2023-07-10
 - [策略模式](https://github.com/HealUP/MyBlog/issues/39)--2023-07-06
-- [🗓️7月份计划](https://github.com/HealUP/MyBlog/issues/38)--2023-07-01
 ## upup
 - [蓝桥杯又要摆烂了~](https://github.com/HealUP/MyBlog/issues/10)--2023-04-06
 - [数据库又被黑了 真佛了...](https://github.com/HealUP/MyBlog/issues/9)--2023-03-29
@@ -51,6 +51,16 @@
 - [单例模式](https://github.com/HealUP/MyBlog/issues/40)--2023-07-10
 - [策略模式](https://github.com/HealUP/MyBlog/issues/39)--2023-07-06
 ## TODO
+TODO list from [8月份计划🗓️](https://github.com/HealUP/MyBlog/issues/44)--8 jobs to do--0 jobs done
+- [ ] 准备面试（八股）模拟面试
+- [ ] 完成公司项目开发并上线
+- [ ] 毕设提前了解，确定选题
+- [ ] 算法训练
+- [ ] 熟悉项目
+- [ ] 看一本书
+- [ ] 完成实习的周记
+- [ ] 单词500
+
 TODO list from [🗓️7月份计划](https://github.com/HealUP/MyBlog/issues/38) all done
 
 TODO list from [🗓️6月份计划](https://github.com/HealUP/MyBlog/issues/35) all done
