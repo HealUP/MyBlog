@@ -13,7 +13,6 @@
 - [策略模式](https://github.com/HealUP/MyBlog/issues/39)--2023-07-06
 - [🗓️7月份计划](https://github.com/HealUP/MyBlog/issues/38)--2023-07-01
 ## upup
-- [6.1🍾](https://github.com/HealUP/MyBlog/issues/36)--2023-06-03
 - [蓝桥杯又要摆烂了~](https://github.com/HealUP/MyBlog/issues/10)--2023-04-06
 - [数据库又被黑了 真佛了...](https://github.com/HealUP/MyBlog/issues/9)--2023-03-29
 - [报了软考 预言家说：铁定能过！](https://github.com/HealUP/MyBlog/issues/8)--2023-03-25
@@ -52,18 +51,7 @@
 - [单例模式](https://github.com/HealUP/MyBlog/issues/40)--2023-07-10
 - [策略模式](https://github.com/HealUP/MyBlog/issues/39)--2023-07-06
 ## TODO
-TODO list from [🗓️7月份计划](https://github.com/HealUP/MyBlog/issues/38)--2 jobs to do--9 jobs done
-- [x] 熟悉公司项目🧑‍💻⭐⭐⭐
-- [x] 结合项目持续学习redis🧑‍💻⭐⭐⭐
-- [x] 设计模式🧑‍💻⭐⭐⭐
-- [x] Mysql总结输出🧑‍💻⭐⭐⭐
-- [x] 微服务架构持续学习🧑‍💻⭐⭐⭐
-- [x] 业务文档整理、技术方案总结，文字表达能力🧑‍💻⭐⭐
-- [x] JVM学习+总结排错思路🧑‍💻 ⭐⭐
-- [x] 出一版新的简历内容⭐⭐⭐⭐⭐
-- [x] 英语听力+单词🚇⭐⭐⭐
-- [ ] 算法+SQL⭐⭐
-- [ ] 月度总结❗
+TODO list from [🗓️7月份计划](https://github.com/HealUP/MyBlog/issues/38) all done
 
 TODO list from [🗓️6月份计划](https://github.com/HealUP/MyBlog/issues/35) all done
 
