@@ -51,15 +51,15 @@
 - [单例模式](https://github.com/HealUP/MyBlog/issues/40)--2023-07-10
 - [策略模式](https://github.com/HealUP/MyBlog/issues/39)--2023-07-06
 ## TODO
-TODO list from [8月份计划🗓️](https://github.com/HealUP/MyBlog/issues/44)--5 jobs to do--3 jobs done
+TODO list from [8月份计划🗓️](https://github.com/HealUP/MyBlog/issues/44)--1 jobs to do--7 jobs done
+- [x] 准备面试（八股）模拟面试
 - [x] 完成公司项目开发并上线
+- [x] 毕设提前了解，确定选题
+- [x] 算法训练
 - [x] 熟悉项目
 - [x] 完成实习的周记
-- [ ] 准备面试（八股）模拟面试
-- [ ] 毕设提前了解，确定选题
-- [ ] 算法训练
+- [x] 单词500
 - [ ] 看一本书
-- [ ] 单词500
 
 TODO list from [🗓️7月份计划](https://github.com/HealUP/MyBlog/issues/38) all done
 
