@@ -51,13 +51,13 @@
 - [单例模式](https://github.com/HealUP/MyBlog/issues/40)--2023-07-10
 - [策略模式](https://github.com/HealUP/MyBlog/issues/39)--2023-07-06
 ## TODO
-TODO list from [10月份-11月份计划🍾](https://github.com/HealUP/MyBlog/issues/45)--4 jobs to do--3 jobs done
+TODO list from [10月份-11月份计划🍾](https://github.com/HealUP/MyBlog/issues/45)--5 jobs to do--2 jobs done
 - [x] 坚持投简历 -> 找工作（**实习转正**）
 - [x] 软考备考
-- [x] 一周3跑 (至少5k）
 - [ ] 毕业设计代码开发达到60%
 - [ ] 持续技术学习->输出技术文档（一周至少3篇）
 - [ ] 开源项目（整理core项目并开源）
+- [ ] 一周3跑 (至少5k）
 - [ ] 10-11月份总结复盘
 
 TODO list from [8月份计划🗓️](https://github.com/HealUP/MyBlog/issues/44) all done
