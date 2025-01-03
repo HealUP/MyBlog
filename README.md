@@ -7,12 +7,13 @@
  | ---- | ---- | ---- |
 | HealUP | https://github.com/HealUP/MyBlog | blog |
 ## 最近更新
+- [2025 , is new born！](https://github.com/HealUP/MyBlog/issues/47)--2025-01-03
 - [10月份-11月份计划🍾](https://github.com/HealUP/MyBlog/issues/45)--2023-10-21
 - [8月份计划🗓️](https://github.com/HealUP/MyBlog/issues/44)--2023-08-21
 - [UML图](https://github.com/HealUP/MyBlog/issues/42)--2023-07-29
 - [28. 找出字符串中第一个匹配项的下标——KMP算法](https://github.com/HealUP/MyBlog/issues/41)--2023-07-10
-- [单例模式](https://github.com/HealUP/MyBlog/issues/40)--2023-07-10
 ## upup
+- [2025 , is new born！](https://github.com/HealUP/MyBlog/issues/47)--2025-01-03
 - [蓝桥杯](https://github.com/HealUP/MyBlog/issues/10)--2023-04-06
 - [数据库又被黑了 真佛了...](https://github.com/HealUP/MyBlog/issues/9)--2023-03-29
 - [报了软考 预言家说：铁定能过！](https://github.com/HealUP/MyBlog/issues/8)--2023-03-25
